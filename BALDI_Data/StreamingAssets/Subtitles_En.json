@@ -1,0 +1,3816 @@
+{
+	"items": [
+		{
+			"key": "Nothing",
+			"value": ""
+		},
+		{
+			"key": "Comment_Vfx_Test starts here",
+			"value": "COMMENT"
+		},
+		{
+			"key": "Vfx_Test_0",
+			"value": "0"
+		},
+		{
+			"key": "Vfx_Test_1",
+			"value": "1"
+		},
+		{
+			"key": "Vfx_Test_2",
+			"value": "2"
+		},
+		{
+			"key": "Vfx_Test_3",
+			"value": "3"
+		},
+		{
+			"key": "Vfx_Test_4",
+			"value": "4"
+		},
+		{
+			"key": "Vfx_Test_5",
+			"value": "5"
+		},
+		{
+			"key": "Vfx_Test_6",
+			"value": "6"
+		},
+		{
+			"key": "Vfx_Test_7",
+			"value": "7"
+		},
+		{
+			"key": "Vfx_Test_8",
+			"value": "8"
+		},
+		{
+			"key": "Vfx_Test_9",
+			"value": "9"
+		},
+		{
+			"key": "Vfx_Test_ElHit",
+			"value": "Elephant hit"
+		},
+		{
+			"key": "Name_Baldi",
+			"value": "Балді"
+		},
+		{
+			"key": "Comment: Menu text starts here",
+			"value": "COMMENT"
+		},
+		{
+			"key": "Men_TutorialPrompt",
+			"value": "Оскільки це твій перший раз у моїй грі, пропоную пройти мій короткий туторіал! Я його створив, щоб навчити тебе грати! Що скажеш? Якщо не хочеш зараз, завжди зможеш спробувати пізніше!"
+		},
+		{
+			"key": "Men_MainDesc",
+			"value": "Грай у хованки з Балді! Чи зможеш пройти всі рівні й не програти?"
+		},
+		{
+			"key": "Men_ContDesc",
+			"value": "<color=green>Продовжуй свої хованки з Балді!</color>"
+		},
+		{
+			"key": "Men_FreeDesc",
+			"value": "У цьому режимі Балді тебе не чіпатиме! Досліджуй Супершколу досхочу! Можна гуляти будь-яким рівнем, до якого ти дійшов у хованках."
+		},
+		{
+			"key": "Men_TutorialDesc",
+			"value": "Дізнайся, як грати в хованки з Балді!"
+		},
+		{
+			"key": "Men_ChallengeDesc",
+			"value": "Спробуй свої сили в одному з шалених викликів Балді! (ПРИМІТКА: Це старі режими, залишені для історії. Нові карти викликів додадуть ближче до кінця розробки.)"
+		},
+		{
+			"key": "Men_EndlessDesc",
+			"value": "Збери якомога більше зошитів, поки Балді тебе не піймав! Балді з часом прискорюється, але зошити його гальмують!"
+		},
+		{
+			"key": "Men_FieldTripDesc",
+			"value": "Вирушай у подорожі, тренуйся в міні-іграх і встановлюй рекорди!"
+		},
+		{
+			"key": "Men_PickMode",
+			"value": "Обери режим!"
+		},
+		{
+			"key": "Men_PickChallenge",
+			"value": "Обери виклик!"
+		},
+		{
+			"key": "Men_PickTrip",
+			"value": "Обери подорож!"
+		},
+		{
+			"key": "Men_About",
+			"value": "Baldi's Basics Plus зараз у ранньому доступі! Попереду ще багато роботи над грою, зокрема:\nПокращені меню, динамічна музика, елементи жахів, навчально-розважальні штуки та більше контенту (рівні, виклики, персонажі тощо).\n<color=red>Чекай на баги! Якщо знайдеш баг, повідом про нього за посиланням нижче.</color>"
+		},
+		{
+			"key": "Men_Warning",
+			"value": "<color=red>УВАГА!</color>\nBaldi's Basics Plus — це легка <color=red>гра жахів</color>, а не навчальна програма.\n\nХоча на цьому етапі розробки елементи жахів доволі м’які, тут є кілька скрімерів та інші штуки, які можуть налякати деяких гравців.\n\n<size=15>НАТИСНИ БУДЬ-ЯКУ КЛАВІШУ, ЩОБ ПРОДОВЖИТИ</size>"
+		},
+		{
+			"key": "Men_StoreConfirm",
+			"value": "Готовий піти?\n<color=red>Усі речі, залишені на прилавку, пропадуть!</color>"
+		},
+		{
+			"key": "Men_StoreReady",
+			"value": "Я готовий!"
+		},
+		{
+			"key": "Men_StoreNotReady",
+			"value": "Ще ні!"
+		},
+		{
+			"key": "Men_EndlessRandom",
+			"value": "Грай на випадково згенерованому рівні! Введи власний сід або вибери випадковий. А ще можеш клікнути на рекорд, щоб узяти його сід!"
+		},
+		{
+			"key": "Men_EndlessMedium",
+			"value": "Середня готова мапа."
+		},
+		{
+			"key": "Men_StealthyChallenge",
+			"value": "Ти пробрався до школи після уроків! Директор Всяких Справ явно полюватиме за тобою. Використовуй <color=red>брудні гумки для дошки</color>, <color=red>шафки</color> і <color=red>мапу</color>, щоб не попастися й зібрати 7 зошитів."
+		},
+		{
+			"key": "Men_SpeedyChallenge",
+			"value": "Тільки ти і Балді в цьому виклику. Фішка в тому, що ви обоє шалено швидкі! Чи встигнеш думати, щоб зібрати 25 зошитів і втекти зі школи?"
+		},
+		{
+			"key": "Men_GrappleChallenge",
+			"value": "Ноги, може, й зламані, але в тебе є <color=red>гачок-кішка з безлімітом</color>! Перехитри Балді та його друзів, коли це твій єдиний спосіб пересування!"
+		},
+		{
+			"key": "Men_CampTrip",
+			"value": "Насолоджуйся природою в таборі з Балді та компанією! Допоможи Балді підтримувати вогнище в «Шалене-Багаття» або хапни перекус у «Пікнік-Швидкохваті»."
+		},
+		{
+			"key": "Men_FarmTrip",
+			"value": "Ферма згоріла! Але не хвилюйся, ремонт уже в процесі."
+		},
+		{
+			"key": "Men_TripWillReturn",
+			"value": "Подорож на ферму скоро повернеться! Балді просить вибачення за затримку."
+		},
+		{
+			"key": "Men_NewScoreTrip",
+			"value": "Оце ТАК рекорд!!!"
+		},
+		{
+			"key": "Men_NewScoreRank",
+			"value": "Ранг: "
+		},
+		{
+			"key": "Men_NewScoreTripFinal",
+			"value": "Фінальний рахунок:\n"
+		},
+		{
+			"key": "Men_PlaceMarker",
+			"value": "СТАВЛЮ ПОЗНАЧКУ"
+		},
+		{
+			"key": "Men_MarkersFull",
+			"value": "ЛІМІТ ПОЗНАЧОК ВИЧЕРПАНО"
+		},
+		{
+			"key": "Men_GeneralSettings",
+			"value": "Загальні\nНалаштування"
+		},
+		{
+			"key": "Men_AudioSettings",
+			"value": "Звукові\nНалаштування"
+		},
+		{
+			"key": "Men_GraphicsSettings",
+			"value": "Графічні\nНалаштування"
+		},
+		{
+			"key": "Men_ControlMapper",
+			"value": "Налаштування Керування"
+		},
+		{
+			"key": "Men_MouseSensitivity",
+			"value": "Чутливість миші"
+		},
+		{
+			"key": "Men_Pause",
+			"value": "На паузі?!"
+		},
+		{
+			"key": "Men_QuitConfirm",
+			"value": "Точно хочеш вийти?"
+		},
+		{
+			"key": "Men_PauseSeed",
+			"value": "Сід:"
+		},
+		{
+			"key": "But_Seed",
+			"value": "Сід: "
+		},
+		{
+			"key": "But_SeedRandom",
+			"value": "Випадковий"
+		},
+		{
+			"key": "But_Back",
+			"value": "Назад"
+		},
+		{
+			"key": "But_Start",
+			"value": "Старт!"
+		},
+		{
+			"key": "But_Play!",
+			"value": "Грати!"
+		},
+		{
+			"key": "But_LetsGo",
+			"value": "Поїхали!"
+		},
+		{
+			"key": "But_NoThanks",
+			"value": "Ні, дякую."
+		},
+		{
+			"key": "But_Continue",
+			"value": "Продовжити"
+		},
+		{
+			"key": "But_Skip",
+			"value": "Пропустити"
+		},
+		{
+			"key": "But_Quit",
+			"value": "Вийти"
+		},
+		{
+			"key": "But_QuitYes",
+			"value": "ТАК"
+		},
+		{
+			"key": "But_QuitNo",
+			"value": "НІ"
+		},
+		{
+			"key": "But_Resume",
+			"value": "Відновити гру"
+		},
+		{
+			"key": "But_Options",
+			"value": "Налаштування"
+		},
+		{
+			"key": "But_MainMode",
+			"value": "Хованки"
+		},
+		{
+			"key": "But_FreeMode",
+			"value": "Дослідник"
+		},
+		{
+			"key": "But_Tutorial",
+			"value": "Туторіал"
+		},
+		{
+			"key": "But_EndlessMode",
+			"value": "Нескінченність"
+		},
+		{
+			"key": "But_ChallengeMode",
+			"value": "Виклики"
+		},
+		{
+			"key": "But_FieldTrip",
+			"value": "Подорожі"
+		},
+		{
+			"key": "But_Website",
+			"value": "Сайт"
+		},
+		{
+			"key": "But_Updates",
+			"value": "Оновлення"
+		},
+		{
+			"key": "But_Bugs",
+			"value": "Повідомити про баги"
+		},
+		{
+			"key": "But_NewFile",
+			"value": "Новий файл"
+		},
+		{
+			"key": "But_SubmitFile",
+			"value": "Це я!"
+		},
+		{
+			"key": "But_NameInstructions",
+			"value": "Введи своє ім’я!"
+		},
+		{
+			"key": "But_EndlessMedium",
+			"value": "Середній"
+		},
+		{
+			"key": "But_EndlessRandom",
+			"value": "Випадковий"
+		},
+		{
+			"key": "But_Scores",
+			"value": "Рахунки"
+		},
+		{
+			"key": "Notebooks",
+			"value": "{0} зошитів"
+		},
+		{
+			"key": "Mode_HideSeek",
+			"value": "Хованки"
+		},
+		{
+			"key": "Mode_Endless",
+			"value": "Нескінченність"
+		},
+		{
+			"key": "Mode_FieldTrip",
+			"value": "Подорожі"
+		},
+		{
+			"key": "Mode_Challenge",
+			"value": "Виклик"
+		},
+		{
+			"key": "Mode_Pitstop",
+			"value": "Піт-стоп"
+		},
+		{
+			"key": "Mode_Tutorial",
+			"value": "Туторіал"
+		},
+		{
+			"key": "But_NewGame",
+			"value": "Нова гра"
+		},
+		{
+			"key": "But_ContinueGame",
+			"value": "Продовжити збережене"
+		},
+		{
+			"key": "But_Yes",
+			"value": "Так"
+		},
+		{
+			"key": "But_No",
+			"value": "Ні"
+		},
+		{
+			"key": "Men_NewGameWarning",
+			"value": "<color=red>Увага!</color> Початок нової гри знищить твоє поточне збереження. Продовжити?"
+		},
+		{
+			"key": "Level_Main1",
+			"value": "Рівень 1"
+		},
+		{
+			"key": "Level_Main2",
+			"value": "Рівень 2"
+		},
+		{
+			"key": "Level_Main3",
+			"value": "Рівень 3"
+		},
+		{
+			"key": "Level_Main4",
+			"value": "Рівень 4"
+		},
+		{
+			"key": "Level_Main5",
+			"value": "Рівень 5"
+		},
+		{
+			"key": "Level_Main_Finished",
+			"value": "Фінал"
+		},
+		{
+			"key": "Level_Endless_Medium",
+			"value": "Середній"
+		},
+		{
+			"key": "Level_Endless_Random",
+			"value": "Випадковий"
+		},
+		{
+			"key": "Level_Challenge_Stealthy",
+			"value": "Тихий"
+		},
+		{
+			"key": "Level_Challenge_Speedy",
+			"value": "Швидкий"
+		},
+		{
+			"key": "Level_Challenge_Grapple",
+			"value": "Гак"
+		},
+		{
+			"key": "Level_Trip_Camping",
+			"value": "Табір"
+		},
+		{
+			"key": "Level_Type_Schoolhouse",
+			"value": "Школа"
+		},
+		{
+			"key": "Level_Type_Factory",
+			"value": "Фабрика"
+		},
+		{
+			"key": "Level_Type_Laboratory",
+			"value": "Лабораторія"
+		},
+		{
+			"key": "Level_Type_Maintenance",
+			"value": "Обслуговування"
+		},
+		{
+			"key": "Level_Size_Small",
+			"value": "Маленький"
+		},
+		{
+			"key": "Level_Size_Medium",
+			"value": "Середній"
+		},
+		{
+			"key": "Level_Size_Large",
+			"value": "Великий"
+		},
+		{
+			"key": "Steam_NewFile",
+			"value": "Введи назву нового файлу. До восьми букв."
+		},
+		{
+			"key": "Steam_DupeFile",
+			"value": "Така назва вже є! Введи іншу."
+		},
+		{
+			"key": "Steam_SeedInput",
+			"value": "Введи сід. Значення від -2147483615 до 2147483615."
+		},
+		{
+			"key": "Steam_SeedBad",
+			"value": "Цей сід не підходить! Введи значення від -2147483615 до 2147483615."
+		},
+		{
+			"key": "Steam_Highlight_Win",
+			"value": "Перемога!"
+		},
+		{
+			"key": "Steam_Highlight_Win_Desc",
+			"value": "Пройшов рівень {0}!"
+		},
+		{
+			"key": "Steam_Highlight_Lose",
+			"value": "Програш..."
+		},
+		{
+			"key": "Steam_Highlight_Lose_Desc",
+			"value": "Програв {0} - {1}."
+		},
+		{
+			"key": "Steam_Highlight_HighScore",
+			"value": "Рекорд у Нескінченності!"
+		},
+		{
+			"key": "Steam_Highlight_HighScore_Desc",
+			"value": "Набрав #{0} рекорд із {1} зошитами на мапі Нескінченність {2}!"
+		},
+		{
+			"key": "Steam_Highlight_MinigameHighScore",
+			"value": "Рекорд у {0}!"
+		},
+		{
+			"key": "Steam_Highlight_MinigameHighScore_Desc",
+			"value": "Набрав #{0} рекорд із {1} очками в {2}!"
+		},
+		{
+			"key": "But_End_Random",
+			"value": "Випадковий"
+		},
+		{
+			"key": "But_End_Medium",
+			"value": "Середній"
+		},
+		{
+			"key": "But_Chal_Speedy",
+			"value": "Швидкий"
+		},
+		{
+			"key": "But_Chal_Stealthy",
+			"value": "Тихий"
+		},
+		{
+			"key": "But_Chal_Grapple",
+			"value": "Гак"
+		},
+		{
+			"key": "But_Trip_Camp",
+			"value": "Табір"
+		},
+		{
+			"key": "But_Trip_Farm",
+			"value": "Ферма"
+		},
+		{
+			"key": "Comment_Option text starts here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Opt_General",
+			"value": "Загальні\nНалаштування"
+		},
+		{
+			"key": "Opt_Audio",
+			"value": "Звукові\nНалаштування"
+		},
+		{
+			"key": "Opt_Graphics",
+			"value": "Графічні\nНалаштування"
+		},
+		{
+			"key": "Opt_Controls",
+			"value": "Керування"
+		},
+		{
+			"key": "Opt_Extras",
+			"value": "Додатки"
+		},
+		{
+			"key": "Opt_Data",
+			"value": "Дані"
+		},
+		{
+			"key": "Opt_MouseSensitivity",
+			"value": "Чутливість миші"
+		},
+		{
+			"key": "Opt_ControllerSensitivity",
+			"value": "Чутливість контролера"
+		},
+		{
+			"key": "Opt_Camera",
+			"value": "Камера"
+		},
+		{
+			"key": "Opt_Cursor",
+			"value": "Курсор"
+		},
+		{
+			"key": "Opt_Flashing",
+			"value": "Зменшити миготіння"
+		},
+		{
+			"key": "Opt_Subs",
+			"value": "Субтитри"
+		},
+		{
+			"key": "Opt_Volume",
+			"value": "Гучність"
+		},
+		{
+			"key": "Opt_Effects",
+			"value": "Ефекти"
+		},
+		{
+			"key": "Opt_Voices",
+			"value": "Голоси"
+		},
+		{
+			"key": "Opt_Music",
+			"value": "Музика"
+		},
+		{
+			"key": "Opt_Resolution",
+			"value": "Роздільність"
+		},
+		{
+			"key": "Opt_Full",
+			"value": "<size=18>Повноекранний"
+		},
+		{
+			"key": "Opt_Vsync",
+			"value": "<size=18>Vsync"
+		},
+		{
+			"key": "Opt_Filter",
+			"value": "<size=18>Фільтр пікселів"
+		},
+		{
+			"key": "Opt_Apply",
+			"value": "<size=13>Застосувати"
+		},
+		{
+			"key": "Opt_Authentic",
+			"value": "Автентичний режим"
+		},
+		{
+			"key": "Opt_Rumble",
+			"value": "Вібрація"
+		},
+		{
+			"key": "Opt_ChangeName",
+			"value": "Змінити ім’я"
+		},
+		{
+			"key": "Opt_ResetEndlessScores",
+			"value": "Скинути рекорди Нескінченності"
+		},
+		{
+			"key": "Opt_ResetTripScores",
+			"value": "Скинути рекорди Подорожей"
+		},
+		{
+			"key": "Opt_DeleteFile",
+			"value": "Видалити файл"
+		},
+		{
+			"key": "Opt_ConfirmNameChange",
+			"value": "Введи нове ім’я й натисни ПІДТВЕРДИТИ, коли закінчиш."
+		},
+		{
+			"key": "Opt_NameExists",
+			"value": "Таке ім’я вже є!"
+		},
+		{
+			"key": "Opt_ConfirmDelete",
+			"value": "<color=red>Точно хочеш видалити цей файл? Його не відновиш!</color>"
+		},
+		{
+			"key": "Opt_Deleting",
+			"value": "<color=red>В И Д А Л Я Ю</color>"
+		},
+		{
+			"key": "Opt_ConfirmEndlessReset",
+			"value": "<color=red>Точно скинути рекорди Нескінченності?</color>"
+		},
+		{
+			"key": "Opt_EndlessReset",
+			"value": "Рекорди Нескінченності скинуто."
+		},
+		{
+			"key": "Opt_ConfirmTripReset",
+			"value": "<color=red>Точно скинути рекорди Подорожей?</color>"
+		},
+		{
+			"key": "Opt_TripReset",
+			"value": "Рекорди Подорожей скинуто."
+		},
+		{
+			"key": "Opt_Game",
+			"value": "Налаштування Гри"
+		},
+		{
+			"key": "Opt_PlayStyle",
+			"value": "Стиль гри"
+		},
+		{
+			"key": "Opt_LifeMode_Normal",
+			"value": "Звичайний"
+		},
+		{
+			"key": "Opt_LifeMode_Arcade",
+			"value": "Аркада"
+		},
+		{
+			"key": "Opt_LifeMode_Intense",
+			"value": "Суворий"
+		},
+		{
+			"key": "Opt_LifeMode_Explorer",
+			"value": "Дослідник"
+		},
+		{
+			"key": "Opt_Challenges",
+			"value": "Виклики"
+		},
+		{
+			"key": "Opt_TimeLimitChallenge",
+			"value": "Ліміт 1 хвилина"
+		},
+		{
+			"key": "Opt_MapChallenge",
+			"value": "Без карти"
+		},
+		{
+			"key": "Opt_InventoryChallenge",
+			"value": "Менший інвентар"
+		},
+		{
+			"key": "Opt_EndlessLevelType",
+			"value": "Тип рівня"
+		},
+		{
+			"key": "Opt_EndlessLevelSize",
+			"value": "Розмір рівня"
+		},
+		{
+			"key": "Comment_Tool tip text starts here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Tip_SensitivityCategory",
+			"value": "<size=10>Перемикає між налаштуваннями чутливості миші\nта джойстика."
+		},
+		{
+			"key": "Tip_CameraSensitivity",
+			"value": "Регулює швидкість\nповороту камери."
+		},
+		{
+			"key": "Tip_CursorSensitivity",
+			"value": "Регулює швидкість\nруху курсору."
+		},
+		{
+			"key": "Tip_Flashing",
+			"value": "Зменшує інтенсивність деяких візуальних ефектів,\nякі можуть бути неприємними для декого."
+		},
+		{
+			"key": "Tip_Subtitles",
+			"value": "Вмикає субтитри з напрямками для всіх реплік\nта важливих звукових ефектів."
+		},
+		{
+			"key": "Tip_VolumeEffects",
+			"value": "Регулює гучність звукових ефектів."
+		},
+		{
+			"key": "Tip_VolumeVoices",
+			"value": "Регулює гучність голосів."
+		},
+		{
+			"key": "Tip_VolumeMusic",
+			"value": "Регулює гучність музики."
+		},
+		{
+			"key": "Tip_Resolution",
+			"value": "Змінює роздільність гри."
+		},
+		{
+			"key": "Tip_Full",
+			"value": "<size=13>Перемикає між повноекранним\nі віконним режимами."
+		},
+		{
+			"key": "Tip_Vsync",
+			"value": "<size=12>Vsync намагається синхронізувати гру з частотою оновлення твого монітора,\nщоб уникнути розривів екрану. Але якщо є проблеми з продуктивністю,\nвимкнення Vsync може трохи її покращити."
+		},
+		{
+			"key": "Tip_Filter",
+			"value": "<size=14>Фільтрує екрани меню, щоб пікселі були квадратними\nі не розмивалися на нецілих масштабах роздільності."
+		},
+		{
+			"key": "Tip_Apply",
+			"value": "<size=12>Застосувати поточні налаштування графіки.\nНезастосовані зміни не збережуться."
+		},
+		{
+			"key": "Tip_Authentic",
+			"value": "Відчуй Baldi's Basics так,\nніби її справді випустили в 1999 році!"
+		},
+		{
+			"key": "Tip_NoGame",
+			"value": "<size=10>Це налаштування не можна\nзмінити під час гри."
+		},
+		{
+			"key": "Tip_Rumble",
+			"value": "Якщо увімкнено, контролери вібруватимуть\nпід час певних ігрових подій."
+		},
+		{
+			"key": "Tip_ChangeName",
+			"value": "Змінити назву цього файлу."
+		},
+		{
+			"key": "Tip_DeleteEndlessScores",
+			"value": "<color=red>Скидає всі рекорди режиму Нескінченність\nдо початкових значень.</color>"
+		},
+		{
+			"key": "Tip_DeleteTripScores",
+			"value": "<color=red>Скидає всі рекорди подорожей\nдо початкових значень.</color>"
+		},
+		{
+			"key": "Tip_DeleteFile",
+			"value": "<color=red>Це назавжди видалить цей файл! Будь абсолютно\nвпевнений, перш ніж продовжувати.</color>"
+		},
+		{
+			"key": "Tip_PlayStyle",
+			"value": "Обери стиль гри. Зміни застосовуються лише при старті нової гри.\nЦі опції впливають на те, скільки разів ти можеш програти до геймовера!\nЗвичайний: Починаєш кожен рівень із трьома трубками енергії.\nАркада: Починаєш із трьома трубками, але більше не отримуєш на рівнях.\nСуворий: Лише одна трубка на всю гру. Один програш — і геймовер!\nДослідник: Балді не ганятиметься за тобою, тож гуляй вільно!\n(У режимі Дослідника не можна нічого розблокувати чи зберегти)"
+		},
+		{
+			"key": "Tip_Challenges",
+			"value": "<size=10>Ці налаштування роблять гру ще складнішою!\nЗміни застосовуються лише при старті нової гри."
+		},
+		{
+			"key": "Tip_TimeLimitChallenge",
+			"value": "Встановлює ліміт часу на кожен рівень — одна хвилина. Поспіши!"
+		},
+		{
+			"key": "Tip_MapChallenge",
+			"value": "Повністю вимикає мапу. Будь уважним!"
+		},
+		{
+			"key": "Tip_InventoryChallenge",
+			"value": "Використання предмета забирає слот до кінця рівня. Думай добре!"
+		},
+		{
+			"key": "Comment_Hud text starts here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Hud_Notebooks",
+			"value": "Зошити"
+		},
+		{
+			"key": "Comment_Itm text starts here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Itm_Nothing",
+			"value": "Нічого"
+		},
+		{
+			"key": "Itm_ZestyBar",
+			"value": "Енергетичний батончик Zesty"
+		},
+		{
+			"key": "Itm_Bsoda",
+			"value": "BSODA"
+		},
+		{
+			"key": "Itm_Boots",
+			"value": "Великі старі чоботи"
+		},
+		{
+			"key": "Itm_DetentionKey",
+			"value": "Ключі директора"
+		},
+		{
+			"key": "Itm_GrapplingHook",
+			"value": "(5) Гак-кішка"
+		},
+		{
+			"key": "Itm_GrapplingHook4",
+			"value": "(4) Гак-кішка"
+		},
+		{
+			"key": "Itm_GrapplingHook3",
+			"value": "(3) Гак-кішка"
+		},
+		{
+			"key": "Itm_GrapplingHook2",
+			"value": "(2) Гак-кішка"
+		},
+		{
+			"key": "Itm_GrapplingHook1",
+			"value": "(1) Гак-кішка"
+		},
+		{
+			"key": "Itm_NoSquee",
+			"value": "WD-БезСкрипу"
+		},
+		{
+			"key": "Itm_Quarter",
+			"value": "Чвертак"
+		},
+		{
+			"key": "Itm_DoorLock",
+			"value": "Замок для дверей"
+		},
+		{
+			"key": "Itm_Tape",
+			"value": "Найменш улюблена касета Балді"
+		},
+		{
+			"key": "Itm_Apple",
+			"value": "Яблуко для Балді"
+		},
+		{
+			"key": "Itm_AlarmClock",
+			"value": "Будильник"
+		},
+		{
+			"key": "Itm_ChalkEraser",
+			"value": "Брудна крейдяна гумка"
+		},
+		{
+			"key": "Itm_Nametag",
+			"value": "Бейджик персоналу"
+		},
+		{
+			"key": "Itm_PrincipalWhistle",
+			"value": "Свисток директора"
+		},
+		{
+			"key": "Itm_Scissors",
+			"value": "Безпечні ножиці"
+		},
+		{
+			"key": "Itm_Teleporter",
+			"value": "Небезпечний телепорт"
+		},
+		{
+			"key": "Itm_PortalPoster",
+			"value": "Портальний постер"
+		},
+		{
+			"key": "Itm_NanaPeel",
+			"value": "Бананова шкірка"
+		},
+		{
+			"key": "Itm_DietBsoda",
+			"value": "Дієтична BSODA"
+		},
+		{
+			"key": "Itm_BusPass",
+			"value": "Квиток на автобус"
+		},
+		{
+			"key": "Itm_Lost_Book",
+			"value": "Загублена Книга"
+		},
+		{
+			"key": "Itm_Lost_Cards",
+			"value": "Загублені Ігрові Карти"
+		},
+		{
+			"key": "Itm_Lost_Controller",
+			"value": "Загублений Контроллер"
+		},
+		{
+			"key": "Itm_Lost_Figure",
+			"value": "Загублена Екшн Фігурка"
+		},
+		{
+			"key": "Itm_Lost_Floppy",
+			"value": "Загублений Флоппі Диск"
+		},
+		{
+			"key": "Itm_Lost_Marker",
+			"value": "Загублений Маркер"
+		},
+		{
+			"key": "Itm_Lost_Plush",
+			"value": "Загублена М'яка Іграшка"
+		},
+		{
+			"key": "Itm_Lost_Puppet",
+			"value": "Загублена лялька-рукавичка"
+		},
+		{
+			"key": "Itm_Lost_Tape",
+			"value": "Загублена Відео Касета"
+		},
+		{
+			"key": "Itm_Lost_Train",
+			"value": "Загублений Іграшковий Потяг"
+		},
+		{
+			"key": "Itm_Key_Circle",
+			"value": "Круглий Ключ"
+		},
+		{
+			"key": "Itm_Key_Triangle",
+			"value": "Трикутний Ключ"
+		},
+		{
+			"key": "Itm_Key_Square",
+			"value": "Квадратний Ключ"
+		},
+		{
+			"key": "Itm_Key_Star",
+			"value": "Зірчастий Ключ"
+		},
+		{
+			"key": "Itm_Key_Heart",
+			"value": "Ключ у формі Серця"
+		},
+		{
+			"key": "Itm_Key_Weird",
+			"value": "Химерний Ключ"
+		},
+		{
+			"key": "Itm_InvisibilityElixir",
+			"value": "Еліксир Невидимості"
+		},
+		{
+			"key": "Itm_ReachExtender",
+			"value": "Супер-еластична рукавичка"
+		},
+		{
+			"key": "Comment_Item description text starts here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Desc_Nothing",
+			"value": "Що за?! Такого не мало б бути!"
+		},
+		{
+			"key": "Desc_ZestyBar",
+			"value": "Енергетичний батончик Zesty\nЗ’їж його — і отримай заряд енергії!\nВідновлює більше витривалості, ніж просто відпочинок!"
+		},
+		{
+			"key": "Desc_Bsoda",
+			"value": "BSODA\nВідкрий банку шипучої BSODA і розбризкай усіх,\nхто стоїть на твоєму шляху! Склад: синій колір, кукурудзяний сироп,\nелектрика та 2% або менше: вода, синій барвник 2."
+		},
+		{
+			"key": "Desc_Boots",
+			"value": "Великі старі чоботи\nЦі здоровенні чоботи тримають твої ноги на землі!\nЗахищають від штовхань персонажів і перешкод у школі."
+		},
+		{
+			"key": "Desc_DetentionKey",
+			"value": "Ключі директора\nПорушуй усі правила з ключами директора! Відчиняй будь-які замкнені двері,\nнавіть ті, що не замикав Директор Всяких Справ!"
+		},
+		{
+			"key": "Desc_GrapplingHook",
+			"value": "Гак-кішка\nСтріляй ним у далеку стіну, щоб швидко до неї підтягнутися.\nДопоможе вибратися з халепи в одну мить."
+		},
+		{
+			"key": "Desc_NoSquee",
+			"value": "WD-БезСкрипу\nНабридли звуки, що видають твоє місце? WD-БезСкрипу все виправить!\nРозпили його, і все навколо стане тихо-тихо."
+		},
+		{
+			"key": "Desc_Quarter",
+			"value": "Чвертак\nБлискучий чвертак!\nСтане в пригоді для всього, що потребує блискучого чвертака!"
+		},
+		{
+			"key": "Desc_DoorLock",
+			"value": "Замок для дверей\nПостав його на будь-які розсувні двері, щоб замкнути їх на кілька секунд.\nНіхто не пройде, але пам’ятай: крізь двері все ще видно!"
+		},
+		{
+			"key": "Desc_Tape",
+			"value": "Найменш улюблена касета Балді\nЦя касета, створена учнем, глушить усіх, поки грає.\nЧуєш тон? Шуми скільки хочеш, без турбот!"
+		},
+		{
+			"key": "Desc_Apple",
+			"value": "Яблуко для Балді\nДай його Балді, і він не встоїть перед спокусою\nшвиденько перекусити!"
+		},
+		{
+			"key": "Desc_AlarmClock",
+			"value": "Будильник\nПостав цей годинник, і коли він задзвонить, Балді побіжить перевірити!\nЗвісно, якщо не побачить тебе — він не *аж такий* дурний."
+		},
+		{
+			"key": "Desc_ChalkEraser",
+			"value": "Брудна крейдяна гумка\nСтвори хмару крейдяного пилу, щоб закрити огляд Балді та його друзям.\nХовайся в ній або проскочи повз непомітно."
+		},
+		{
+			"key": "Desc_Nametag",
+			"value": "Бейджик персоналу\nВідчуй себе працівником Супершколи Балді!\nЗ ним тебе ніхто не чіпатиме! Ну, крім Балді — він розпізнає підробку."
+		},
+		{
+			"key": "Desc_PrincipalWhistle",
+			"value": "Свисток директора\nПотрібна швидка справедливість? Дмухни в свисток,\nі Директор Всяких Справ примчить на допомогу якомога швидше!"
+		},
+		{
+			"key": "Desc_Scissors",
+			"value": "Безпечні ножиці\nРіж усе* цими супер-безпечними ножицями!\n*Насправді, це найтупіші ножиці в світі, ріжуть лише скакалки, жуйки й дешеві дроти."
+		},
+		{
+			"key": "Desc_Teleporter",
+			"value": "Небезпечний телепорт\nСкористайся ним — і хто зна, куди потрапиш!\nМоже врятувати, а може й приректи. Оце я називаю веселощами!"
+		},
+		{
+			"key": "Desc_PortalPoster",
+			"value": "Портальний постер\nЯкщо за стіною є кімната, повісь це, щоб пройти.\nСупертехнологія від самого Балді!"
+		},
+		{
+			"key": "Desc_MapFill",
+			"value": "Заповни свою мапу!\nКупи це, і твоя мапа заповниться миттєво!\nЗ цим ти зможеш спланувати маршрут, навіть не ступивши на рівень!"
+		},
+		{
+			"key": "Desc_Suspend",
+			"value": "Це поки недоступне!\nЦікаво, для чого воно може бути..."
+		},
+		{
+			"key": "Desc_NanaPeel",
+			"value": "Бананова шкірка\nКинь її на підлогу, і кожен, хто наступить, ковзатиме,\nпоки не гепнеться в стіну! Обережно, ти теж можеш посковзнутися!"
+		},
+		{
+			"key": "Desc_DietBsoda",
+			"value": "Дієтична BSODA\nЩоб учні були здоровішими, у нас п’ють дієтичну BSODA!\nМенше на 90% шипіння, але смак той самий — і, може, навіть корисніше!"
+		},
+		{
+			"key": "Desc_BusPass",
+			"value": "Квиток на автобус\nБез нього на подорож не потрапиш!"
+		},
+		{
+			"key": "Desc_Plus25",
+			"value": "Зелений + дає 25 Очок Твоїх Думок!"
+		},
+		{
+			"key": "Desc_Plus50",
+			"value": "Срібний + дає 50 Очок Твоїх Думок!"
+		},
+		{
+			"key": "Desc_Plus100",
+			"value": "Золотий + дає 100 Очок Твоїх Думок!"
+		},
+		{
+			"key": "Desc_LostItem",
+			"value": "Загублений Предмет\nСхоже наче хтось загубив це! Побачимо чи зможеш ти повернути його правильному власнику. Ти будеш нагороджений!"
+		},
+		{
+			"key": "Desc_GameKey",
+			"value": "Shape Key\nЯ запевняю цей ключ повинен відчиняти замки такого ж типу!"
+		},
+		{
+			"key": "Desc_InvisibilityElixir",
+			"value": "Еліксир Невидимості\nВипивши цей еліксир, ви на деякий час станете невидимим!\nАле будьте обережні! Те, що вас ніхто не бачить,\nще не означає, що на вас не можуть наштовхнутися.\n"
+		},
+		{
+			"key": "Desc_ReachExtender",
+			"value": "Супер-еластична Рукавичка\nНадівши цю рукавичку, ви тимчасово перетворите свою руку на еластичну гуму!\nЦе дозволить вам розтягувати пальці та дотягуватися до\nбудь-якого інтерактивного об'єкта, як би далеко він не був!\n"
+		},
+		{
+			"key": "Comment_Misc GUI text starts here.",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "YCTP_Victory1",
+			"value": "ВАУ! ТИ ІСНУЄШ!"
+		},
+		{
+			"key": "YCTP_Fail1",
+			"value": "Я ЧУЮ КОЖНІ ДВЕРІ, ЯКІ ТИ ВІДЧИНЯЄШ"
+		},
+		{
+			"key": "YCTP_Fail2",
+			"value": "Я ЗЛЮСЯ ЗА КОЖНУ ПОМИЛКУ В ТВОЇХ ВІДПОВІДЯХ"
+		},
+		{
+			"key": "YCTP_Recover1",
+			"value": "Оце вже краще..."
+		},
+		{
+			"key": "YCTP_Recover2",
+			"value": "Не пам’ятаю, що тут мало бути..."
+		},
+		{
+			"key": "Comment_Posters start here.",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "PST_HNT_Rules1",
+			"value": "Шкільні правила!"
+		},
+		{
+			"key": "PST_HNT_Rules2",
+			"value": "Дотримуйся шкільних правил:\n1. Не бігай\n2. Не заходь до кімнат для персоналу\n3. Не знущайся\n4. Не пий\n5. Не втікай із затримання\n6. Не ламай четверту стіну"
+		},
+		{
+			"key": "PST_TUT_Move",
+			"value": "Рухайся:\n{0}/MovementX/MovementY"
+		},
+		{
+			"key": "PST_TUT_Look",
+			"value": "Озирайся:\n{0}/CameraX/CameraXDelta"
+		},
+		{
+			"key": "PST_TUT_Run",
+			"value": "Біжи:\n{0}/Run"
+		},
+		{
+			"key": "PST_TUT_Action",
+			"value": "Дія:\n{0}/Interact"
+		},
+		{
+			"key": "PST_TUT_Item",
+			"value": "Використовуй предмет:\n{0}/UseItem"
+		},
+		{
+			"key": "PST_TUT_ItemSelect",
+			"value": "Зміни вибір предмета:\n{0}/ItemRight/ItemLeft/ItemSelect"
+		},
+		{
+			"key": "PST_TUT_LookBack",
+			"value": "Озирнися назад:\n{0}/LookBack"
+		},
+		{
+			"key": "PST_TUT_QuickMap",
+			"value": "Переглянь швидку мапу:\n{0}/Map"
+		},
+		{
+			"key": "PST_TUT_AdvancedMap",
+			"value": "Відкрий розширену мапу:\n{0}/MapPlus"
+		},
+		{
+			"key": "PST_TUT_Pause",
+			"value": "Пауза:\n{0}/Pause"
+		},
+		{
+			"key": "PST_TUT_BaldiSays_WrongWay",
+			"value": "Не туди!"
+		},
+		{
+			"key": "PST_TUT_TipStorage",
+			"value": "Ось тобі порада!\nМожеш ховати предмети в шафках для зберігання!"
+		},
+		{
+			"key": "PST_TUT_TipNotebooks",
+			"value": "Ось тобі порада!\nКількість потрібних зошитів видно в лівому верхньому куті екрана!"
+		},
+		{
+			"key": "PST_TUT_TipRun",
+			"value": "Ось тобі порада!\nНе можеш бігти, коли витривалість на нулі. Стій спокійно, щоб її поповнити!"
+		},
+		{
+			"key": "PST_TUT_TipPause",
+			"value": "Ось тобі порада!\nУ меню паузи можна змінити керування та багато іншого в будь-який момент!"
+		},
+		{
+			"key": "PST_TUT_TipActivity",
+			"value": "Ось тобі порада!\nУспішно завершиш завдання — отримаєш Бали Твоїх Думок!"
+		},
+		{
+			"key": "PST_TUT_TipMap",
+			"value": "Ось тобі порада!\nМапа показує, де ще є предмети та зошити в кімнатах!"
+		},
+		{
+			"key": "PST_TUT_TipStore",
+			"value": "Ось тобі порада!\nБракне грошей? Іноді Джонні може виручити!"
+		},
+		{
+			"key": "PST_TUT_TipPoints",
+			"value": "Ось тобі порада!\nБали Твоїх Думок часто називають просто «БТД»!"
+		},
+		{
+			"key": "PST_TUT_TipWindows",
+			"value": "Ось тобі порада!\nМої друзі не помітять тебе крізь вікна!"
+		},
+		{
+			"key": "PST_TUT_TipNoise",
+			"value": "Ось тобі порада!\nМоє обличчя з’являється в правому нижньому куті, коли я чую шум!"
+		},
+		{
+			"key": "PST_TUT_TipDarkness",
+			"value": "Ось тобі порада!\nМожеш сховатися від мене в темних місцях!"
+		},
+		{
+			"key": "PST_TUT_TipSpecialRooms",
+			"value": "Ось тобі порада!\nДеякі кімнати мають круті ефекти! Наприклад, на майданчику витривалість відновлюється швидше!"
+		},
+		{
+			"key": "PST_TUT_TipDetention",
+			"value": "Ось тобі порада!\nУ кабінеті директора є постери про моїх друзів!"
+		},
+		{
+			"key": "PST_TUT_TipBonusQuestion",
+			"value": "Ось тобі порада!\nПовертайся до завдань після збору всіх зошитів за крутим бонусом!"
+		},
+		{
+			"key": "PST_TUT_TipPraise",
+			"value": "Ось тобі порада!\nЯ не чіпатиму тебе, поки хвалю за успішне завершення завдання!"
+		},
+		{
+			"key": "PST_TUT_TipBalloon",
+			"value": "Ось тобі порада!\nЯкщо кулька Математичної Машини лусне, вона з’явиться десь іще в кімнаті!"
+		},
+		{
+			"key": "PST_PRI_Baldi1",
+			"value": "Балді"
+		},
+		{
+			"key": "PST_PRI_Baldi2",
+			"value": "Супервчитель завдяки своєму неймовірному слуху! Він не лише чує, звідки звук, а й знає, хто його зробив!"
+		},
+		{
+			"key": "PST_PRI_Sweep1",
+			"value": "Мітла-Метла"
+		},
+		{
+			"key": "PST_PRI_Sweep2",
+			"value": "Що робити, коли до відкриття школи 7 годин, а двірника немає? Найняти мітлу! Вона замітатиме <b>усе!</b>"
+		},
+		{
+			"key": "PST_PRI_Beans1",
+			"value": "Бобчик"
+		},
+		{
+			"key": "PST_PRI_Beans2",
+			"value": "Намагається вразити всіх, дмухаючи бульки з жуйки, але зазвичай просто їх випльовує."
+		},
+		{
+			"key": "PST_PRI_Bully1",
+			"value": "Це Хуліган"
+		},
+		{
+			"key": "PST_PRI_Bully2",
+			"value": "У нашій школі вважають, що кожній хорошій школі потрібен хороший хуліган! Ось чому в нас є цей малий!"
+		},
+		{
+			"key": "PST_PRI_Chalk1",
+			"value": "Крейдинка"
+		},
+		{
+			"key": "PST_PRI_Chalk2",
+			"value": "Якийсь учень намалював це обличчя, а воно раптом ожило, літає, сміється і бешкетує."
+		},
+		{
+			"key": "PST_PRI_Crafters1",
+			"value": "Майстрик"
+		},
+		{
+			"key": "PST_PRI_Crafters2",
+			"value": "Сором’язливий, уникає уваги. Не любить, коли на нього дивляться, і заздрить тим, у кого більше зошитів."
+		},
+		{
+			"key": "PST_PRI_Cloud1",
+			"value": "Хмарка"
+		},
+		{
+			"key": "PST_PRI_Cloud2",
+			"value": "Хмаринка, яка обожнює бути собою і робити хмарні справи. Літає коридорами й дме сильним вітром."
+		},
+		{
+			"key": "PST_PRI_Playtime1",
+			"value": "Грайлик"
+		},
+		{
+			"key": "PST_PRI_Playtime2",
+			"value": "Попри слабкий зір і коротку пам’ять, завжди шукає, з ким би погратися!\n\n«Пограємося!»"
+		},
+		{
+			"key": "PST_PRI_Pomp1",
+			"value": "Пані Помпа"
+		},
+		{
+			"key": "PST_PRI_Pomp2",
+			"value": "Стрибає на своїх підборах, запрошуючи учнів на урок. Не спізнюйтесь, бо буде ой-ой!"
+		},
+		{
+			"key": "PST_PRI_Principal1",
+			"value": "Директор Всяких Справ"
+		},
+		{
+			"key": "PST_PRI_Principal2",
+			"value": "«Якщо побачу, що хтось порушує правила школи, справедливість буде подана! Вона смачна і насичує мій животик!»"
+		},
+		{
+			"key": "PST_PRI_Prize1",
+			"value": "Перший Приз"
+		},
+		{
+			"key": "PST_PRI_Prize2",
+			"value": "Балді виграв перший приз на науковій виставці! Обожнює обіймати всіх, кого бачить, але повертається ду-у-уже повільно."
+		},
+		{
+			"key": "PST_PRI_Test1",
+			"value": "Тест"
+		},
+		{
+			"key": "PST_PRI_Test2",
+			"value": "Хочеш за кимось наглядати? Ось твій помічник! Тільки не забудь, де ти його бачив востаннє!"
+		},
+		{
+			"key": "PST_PRI_Reflex1",
+			"value": "Доктор Рефлекс"
+		},
+		{
+			"key": "PST_PRI_Reflex2",
+			"value": "Економний лікар із незвичним методом перевірки рефлексів. Не йди, поки тест не закінчиться!"
+		},
+		{
+			"key": "PST_Shop_Restock1",
+			"value": "ВІД-"
+		},
+		{
+			"key": "PST_Shop_Restock2",
+			"value": "-ТИ"
+		},
+		{
+			"key": "PST_Shop_YTPs",
+			"value": "ОТД"
+		},
+		{
+			"key": "PST_HNT_Boots",
+			"value": "Двірники мусять носити чоботи, коли метуть!"
+		},
+		{
+			"key": "PST_HNT_NoSquee",
+			"value": "WD-БезСкрипу! Коли двері скриплять, а ти хочеш, щоб було ТИХО!"
+		},
+		{
+			"key": "PST_HNT_PartyEnd",
+			"value": "Порахуй кульки! Скільки якого кольору знайдеш? Давай, бігом!"
+		},
+		{
+			"key": "PST_HNT_Phone",
+			"value": "Учні:\nНе користуйтеся телефоном, коли професор Балді в будівлі.\n\nЦе збиває його з пантелику і заважає чути."
+		},
+		{
+			"key": "PST_HNT_Scissors",
+			"value": "Привіт, діти!\nБезпечні ножиці чудово ріжуть:\nПапір\nСкакалки\nРоботів\nДомашку"
+		},
+		{
+			"key": "PST_HNT_Windows",
+			"value": "<b>УВАГА!</b>\nЧерез невідомі причини, які точно не пов’язані з дизайном гри, шкільний персонал не бачить крізь вікна.\n\nПросимо з розумінням поставитися. Привіт."
+		},
+		{
+			"key": "PST_HNT_YTPs",
+			"value": "Отримуй\nНАГОРОДУ\nза\nДУМКИ"
+		},
+		{
+			"key": "PST_HNT_Read",
+			"value": "<size=5>Будь ласка,\nчитайте оголошення. Вони тут, щоб вам допомогти.</size>"
+		},
+		{
+			"key": "PST_HNT_SaveQuit",
+			"value": "Зберігай і виходь тут"
+		},
+		{
+			"key": "PST_HNT_Zone",
+			"value": "Ти наразі на\n\n\n\nзоні!!!!!!!!"
+		},
+		{
+			"key": "PST_TXT_Inspiration",
+			"value": "<color=green>ХТО</color> <color=red>ТИ</color> <color=blue>БЕЗ</color> <color=green>ВІРИ?</color> <color=red>НІКОЛИ</color> <color=green>НЕ</color> <color=blue>ЗУПИНЯЙСЯ,</color> <color=red>НЕ</color> <color=blue>СТІЙ,</color> <color=red>ВТЕЧІ</color> <color=green>НЕМАЄ</color>"
+		},
+		{
+			"key": "PST_TXT_ClassicSecret1",
+			"value": "Ти переміг!"
+		},
+		{
+			"key": "PST_TXT_ClassicSecret2",
+			"value": "Але ще є куди рости..."
+		},
+		{
+			"key": "PST_TXT_ClassicSecret3",
+			"value": "Зайди до Балді в кабінет по поради!"
+		},
+		{
+			"key": "PST_TXT_Recycle",
+			"value": "Не забувайте <b>ПЕРЕТРАВЛЮВАТИ ЇЖУ</b>"
+		},
+		{
+			"key": "PST_CLS_BaldiSays1",
+			"value": "Як же\n<b>КЛАСНО</b>\nбути\n<b>КЛАСНИМ!</b>"
+		},
+		{
+			"key": "PST_CLS_BaldiSays2",
+			"value": "Готуйся\nвчитися!!!"
+		},
+		{
+			"key": "PST_CLS_BaldiSays3",
+			"value": "Хіба не\nкрута\nця школа?"
+		},
+		{
+			"key": "PST_CLS_BaldiSays4",
+			"value": "Ти мій\nнайкращий Балді!"
+		},
+		{
+			"key": "PST_CLS_BaldiSays5",
+			"value": "Розбирайся і вчися зі мною!"
+		},
+		{
+			"key": "PST_CLS_BaldiSays6",
+			"value": "Обід уже скоро?\nЯ зголоднів!"
+		},
+		{
+			"key": "PST_CLS_BaldiSays7",
+			"value": "Освіта"
+		},
+		{
+			"key": "PST_CLS_BaldiSays8",
+			"value": "Заплутався? Розберешся!"
+		},
+		{
+			"key": "PST_CLS_BaldiSays9",
+			"value": "Не грайся так, щоб зголодніти!"
+		},
+		{
+			"key": "PST_CLS_Numbers",
+			"value": "Цифри — це ТАК ПРОСТО"
+		},
+		{
+			"key": "PST_CLS_BaldiBuried",
+			"value": "Збери їх усі!"
+		},
+		{
+			"key": "PST_CHK_Apple",
+			"value": "Яблуко на день рятує життя."
+		},
+		{
+			"key": "PST_CHK_BaldiSays1",
+			"value": "Балді каже:"
+		},
+		{
+			"key": "PST_CHK_BaldiSays2",
+			"value": "Від мене не сховаєшся! Ха-ха!"
+		},
+		{
+			"key": "PST_CHK_Chalk",
+			"value": "Крейда\n   Дошка!"
+		},
+		{
+			"key": "PST_CHK_Cheese",
+			"value": "Сьогоднішній урок:\nЯк їсти сир"
+		},
+		{
+			"key": "PST_CHK_G",
+			"value": "Здорово"
+		},
+		{
+			"key": "PST_CHK_Math1",
+			"value": "Математика = Більше Математики ="
+		},
+		{
+			"key": "PST_CHK_Math2",
+			"value": "Математика"
+		},
+		{
+			"key": "PST_CHK_Math3",
+			"value": "Математика<sup>Математика<sup>Математика<sup>Математика<sup>Математика<sup>Математика</sup></sup></sup></sup></sup>"
+		},
+		{
+			"key": "PST_CHK_Possible1",
+			"value": "Зроби це! Ти"
+		},
+		{
+			"key": "PST_CHK_Possible2",
+			"value": "МОЖЕШ!"
+		},
+		{
+			"key": "PST_CHK_TreeHint",
+			"value": "К\n Р\n  У\n    Т\n      Ь"
+		},
+		{
+			"key": "PST_CHK_World",
+			"value": "Світ великий. Урок закінчено."
+		},
+		{
+			"key": "PST_BLT_Meeting",
+			"value": "Зустріч\nуже\nНА НОСУ."
+		},
+		{
+			"key": "PST_BLT_Blah",
+			"value": "блаблаблаблаблаблаблаблаблаблаблаблаблаблаблаблаблаблаблаблаблаблабла"
+		},
+		{
+			"key": "PST_BLT_Review",
+			"value": "<color=red>Не переглядайте оновлені контракти!</color> Вони й так норм."
+		},
+		{
+			"key": "PST_BLT_Computer",
+			"value": "Якщо комп не вмикається, спробуй поколихати вимикач."
+		},
+		{
+			"key": "PST_BLT_HeyKid",
+			"value": "Гей, малий, тобі тут не місце!!!"
+		},
+		{
+			"key": "PST_BLT_All",
+			"value": "Усі працівники мусять"
+		},
+		{
+			"key": "PST_BLT_Fired",
+			"value": "Як вилетіти з роботи:\nПРОВАЛ\nПРОВАЛ\nПРОВАЛ\nПРОВАЛ"
+		},
+		{
+			"key": "PST_BLT_Budget",
+			"value": "Огляд бюджету:\n1000 $ - Підручники\n18,99 $ - Комп’ютери\n500 $ - Зарплати\n10 000 $ - Ремонт\n3497 $ - Кнопки\n1 000 000 $ - Повітря\n0,04 $ - Навчання персоналу\n123 $ - Ще кнопок"
+		},
+		{
+			"key": "PST_BLT_Hawaii",
+			"value": "Сюрприз! Наступного тижня всі вдягають гавайські сорочки на роботу, поки я відпочиваю на Гаваях! Це моя подяка за вашу тяжку працю!"
+		},
+		{
+			"key": "PST_PHT_BeAKid_1",
+			"value": "Будь\nдитиною."
+		},
+		{
+			"key": "PST_PHT_BeAKid_2",
+			"value": "Будь\nнадокучливим!"
+		},
+		{
+			"key": "PST_PHT_Candy",
+			"value": "цукерка"
+		},
+		{
+			"key": "PST_CMC_Mail1",
+			"value": "Пані та панове."
+		},
+		{
+			"key": "PST_CMC_Mail2",
+			"value": "Як бачите..."
+		},
+		{
+			"key": "PST_CMC_Mail3",
+			"value": "Це поштова скринька."
+		},
+		{
+			"key": "PST_CMC_Mail4",
+			"value": "Зараз я її відкрию!"
+		},
+		{
+			"key": "PST_CMC_Mail5",
+			"value": "СВОЇМИ ЗУБАМИ!!"
+		},
+		{
+			"key": "PST_CMC_Baldiman1",
+			"value": "Привіт, малий! Я Балдімен, і можу вигадати"
+		},
+		{
+			"key": "PST_CMC_Baldiman2",
+			"value": "будь-що!"
+		},
+		{
+			"key": "PST_CMC_Baldiman3",
+			"value": "А кусачки для нігтів на ногах можеш?"
+		},
+		{
+			"key": "PST_CMC_Baldiman4",
+			"value": "Звісно!"
+		},
+		{
+			"key": "PST_CMC_Baldiman5",
+			"value": "Пізніше..."
+		},
+		{
+			"key": "PST_CMC_Baldiman6",
+			"value": "Ось тобі!"
+		},
+		{
+			"key": "PST_CMC_Baldiman7",
+			"value": "Це схоже на відбійний молоток із приклеєним іржавим ножем..."
+		},
+		{
+			"key": "PST_CMC_Baldiman8",
+			"value": "<b>О так!</b> Воно точно відріже тобі пальці!"
+		},
+		{
+			"key": "PST_CMC_Baldiman9",
+			"value": "Окей, круто, дякую, пане, я тікаю."
+		},
+		{
+			"key": "PST_CMC_Hair1",
+			"value": "Кому взагалі потрібне волосся?\n\nМені ні."
+		},
+		{
+			"key": "PST_CMC_Hair2",
+			"value": "Волосся — це неприродно!"
+		},
+		{
+			"key": "PST_CMC_Hair3",
+			"value": "Ба більше, усе волосся треба"
+		},
+		{
+			"key": "PST_CMC_Hair4",
+			"value": "спалити!"
+		},
+		{
+			"key": "PST_CMC_Hair5",
+			"value": "Спали волосся!"
+		},
+		{
+			"key": "PST_CMC_Hair6",
+			"value": "Рятуйте!"
+		},
+		{
+			"key": "PST_CMC_Hair7",
+			"value": "ААА!"
+		},
+		{
+			"key": "TAG_Sold",
+			"value": "ПРОДАНО"
+		},
+		{
+			"key": "TAG_Out",
+			"value": "ЗАКІНЧИЛОСЯ"
+		},
+		{
+			"key": "TAG_Sale",
+			"value": "РОЗПРОДАЖ!"
+		},
+		{
+			"key": "Comment_Minigame messages start here!",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Mgm_Results",
+			"value": "Результати"
+		},
+		{
+			"key": "Mgm_Leaderboard",
+			"value": "Таблиця лідерів"
+		},
+		{
+			"key": "Mgm_FinalScore",
+			"value": "Фінальний рахунок: {0} очок\n\n"
+		},
+		{
+			"key": "Mgm_HighScore",
+			"value": "Вітаю!\nТвій рекорд — #{0}!"
+		},
+		{
+			"key": "Mgm_LoseEndless",
+			"value": "Цього разу рекорду немає. Спробуй ще!"
+		},
+		{
+			"key": "Mgm_GoodIndicator",
+			"value": "Добре!"
+		},
+		{
+			"key": "Mgm_BadIndicator",
+			"value": "Погано!"
+		},
+		{
+			"key": "Mgm_Base_Win",
+			"value": "Ти переміг! Бери 3 предмети!"
+		},
+		{
+			"key": "Mgm_Base_Lose",
+			"value": "Ти програв... Жодних предметів!"
+		},
+		{
+			"key": "Mgm_Base_Perfect",
+			"value": "ІДЕАЛЬНИЙ БОНУС! +{0} балів"
+		},
+		{
+			"key": "Mgm_Score",
+			"value": "Рахунок: {0}"
+		},
+		{
+			"key": "Mgm_Remaining",
+			"value": "Залишилось: {0}"
+		},
+		{
+			"key": "Mgm_Round",
+			"value": "Раунд {0}"
+		},
+		{
+			"key": "Mgm_FinalRound",
+			"value": "Фінальний раунд"
+		},
+		{
+			"key": "Mgm_BonusRound",
+			"value": "Бонусний раунд {0}"
+		},
+		{
+			"key": "Mgm_Picnic_Title",
+			"value": "Пікнік-Швидкохваті"
+		},
+		{
+			"key": "Mgm_Picnic_Desc",
+			"value": "Швидко хапай їжу, поки апетит Балді не взяв гору! Але не чіпай його улюблене!"
+		},
+		{
+			"key": "Mgm_Picnic_Win",
+			"value": "Я наївся! Ти теж? Чудово, гайда на прогулянку!"
+		},
+		{
+			"key": "Mgm_Picnic_Lose",
+			"value": "Я наївся! Ти ще голодний? Але ж ми щойно пообідали!"
+		},
+		{
+			"key": "Mgm_Picnic_Tut1",
+			"value": "Зголоднів? Бо я так! Давай зіграємо в Пікнік-Швидкохваті!"
+		},
+		{
+			"key": "Mgm_Picnic_Tut2",
+			"value": "На стіл поставлять закриті тарілки.\nТерпи й чекай, поки їх відкриють!\nКлацнеш на закриту — отримаєш штраф."
+		},
+		{
+			"key": "Mgm_Picnic_Tut3",
+			"value": "Поки чекаєш, глянь, про яку їжу я думаю.\nЯ дуже хочу це з’їсти, тож запам’ятай!"
+		},
+		{
+			"key": "Mgm_Picnic_Tut4",
+			"value": "Кришки знято! Обід подано!"
+		},
+		{
+			"key": "Mgm_Picnic_Tut5",
+			"value": "Коли кришки піднімуть, хутко хапай їжу, про яку я НЕ думаю!\nЩо вибереш — те їси ти, а не я!"
+		},
+		{
+			"key": "Mgm_Picnic_Tut6",
+			"value": "Наприклад, щоб виграти цей раунд, можеш клацнути на\nяблуко, курячу ніжку чи хот-дог."
+		},
+		{
+			"key": "Mgm_Picnic_Tut7",
+			"value": "Але поспішай! Якщо забаришся, я можу загребти все зі столу,\nне думаючи, і ти пропустиш свій шанс — це штраф. Вибач!"
+		},
+		{
+			"key": "Mgm_Picnic_Tut8",
+			"value": "Якщо візьмеш їжу, про яку я думаю,\nмені буде сумно, а тобі — штраф!"
+		},
+		{
+			"key": "Mgm_Picnic_Tut9",
+			"value": "О ні, я хотів гамбургер!"
+		},
+		{
+			"key": "Mgm_Picnic_Tut10",
+			"value": "Той капосний хуліган любить жартувати,\nтому інколи підкидає бомби в наш обід!"
+		},
+		{
+			"key": "Mgm_Picnic_Tut11",
+			"value": "Коли таке стається, клацай на бомби, щоб їх відкинути,\nі роби це перед тим, як брати їжу!"
+		},
+		{
+			"key": "Mgm_Picnic_Tut12",
+			"value": "Якщо я побачу, що ти вже поїв, я заберу все зі столу і...\nОй! Ще один штраф! Три штрафи — і грі кінець!"
+		},
+		{
+			"key": "Mgm_Picnic_Tut13",
+			"value": "Обережно! Деякі раунди дуже підступні!"
+		},
+		{
+			"key": "Mgm_Campfire_Title",
+			"value": "Шалене Багаття"
+		},
+		{
+			"key": "Mgm_Campfire_Desc",
+			"value": "Тримай вогонь палаючим, кидаючи в нього паливо. Але обережно — не все паливо підходить для вогнища!"
+		},
+		{
+			"key": "Mgm_Campfire_Win",
+			"value": "Вау, це вогнище грітиме нас усю ніч! Молодець!"
+		},
+		{
+			"key": "Mgm_Campfire_Lose",
+			"value": "Ой ні! Без вогню — без смаколиків! Щасти наступного разу."
+		},
+		{
+			"key": "Mgm_Campfire_Tut1",
+			"value": "Яке гарне вогнище! Давай не дамо йому згаснути — зіграємо в Шалене Багаття!"
+		},
+		{
+			"key": "Mgm_Campfire_Tut2",
+			"value": "Деяке паливо кинуть у руки Першого Призу.\nОце поліно ідеально підійде для вогню!"
+		},
+		{
+			"key": "Mgm_Campfire_Tut3",
+			"value": "Коли в Першого Призу буде паливо,\nтисни кнопку дії, щоб запустити його у вогнище."
+		},
+		{
+			"key": "Mgm_Campfire_Tut3_5",
+			"value": "Диви, як летить!"
+		},
+		{
+			"key": "Mgm_Campfire_Tut4",
+			"value": "Не все, що ловить Перший Приз, добре для вогню!\nЯкщо він схопить погане паливо, чекай, поки з’явиться щось путнє."
+		},
+		{
+			"key": "Mgm_Campfire_Tut5",
+			"value": "Якщо помилишся, вогонь трохи послабшає...\nБрр, стає холодно!"
+		},
+		{
+			"key": "Mgm_Campfire_Tut6",
+			"value": "Але якщо додаси досить палива без помилок,\nвогнище знову спалахне яскраво!"
+		},
+		{
+			"key": "Mgm_Campfire_Tut7",
+			"value": "Якщо вогонь згасне — грі кінець!"
+		},
+		{
+			"key": "Mgm_Campfire_Tut8",
+			"value": "Будь уважним! Усе може стати дуже шаленим!"
+		},
+		{
+			"key": "Mgm_Campfire_Tut_Good",
+			"value": "Хороше паливо:"
+		},
+		{
+			"key": "Mgm_Campfire_Tut_Bad",
+			"value": "Погане паливо:"
+		},
+		{
+			"key": "Comment_Sfx starts here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Sfx_Doors_StandardOpen",
+			"value": "*Двері відчиняються*"
+		},
+		{
+			"key": "Sfx_Doors_StandardShut",
+			"value": "*ГРЯСЬ!*"
+		},
+		{
+			"key": "Sfx_Doors_Locker",
+			"value": "*ГРЯСЬ!*"
+		},
+		{
+			"key": "Sfx_Doors_StandardLocked",
+			"value": "*Дзеленчання*"
+		},
+		{
+			"key": "Sfx_Doors_StandardLock",
+			"value": "*Клац!*"
+		},
+		{
+			"key": "Sfx_Doors_StandardUnlock",
+			"value": "*Розклац!*"
+		},
+		{
+			"key": "Sfx_Doors_Swinging",
+			"value": "*Обертові двері відчиняються*"
+		},
+		{
+			"key": "Sfx_Elv_Buzz",
+			"value": "*ДЗЗЗ*"
+		},
+		{
+			"key": "Sfx_Elv_Close",
+			"value": "*Ліфт зачиняється*"
+		},
+		{
+			"key": "Sfx_Elv_Gate",
+			"value": "*ГРЯСЬ!*"
+		},
+		{
+			"key": "Sfx_Elv_Open",
+			"value": "*Ліфт відчиняється*"
+		},
+		{
+			"key": "Sfx_Elv_Running",
+			"value": "*Шуми ліфта*"
+		},
+		{
+			"key": "Sfx_Elv_Stopped",
+			"value": "*Ліфт зупиняється*"
+		},
+		{
+			"key": "Sfx_AutoDoor_Open",
+			"value": "*Автодвері відчиняються*"
+		},
+		{
+			"key": "Sfx_AutoDoor_Close",
+			"value": "*Автодвері зачиняються*"
+		},
+		{
+			"key": "Sfx_Sfx_EventStartBell",
+			"value": "*ДЗЗЗИИИНЬ!*"
+		},
+		{
+			"key": "Sfx_Effects_Pop",
+			"value": "*ПИК!*"
+		},
+		{
+			"key": "Sfx_Doors_LockStop",
+			"value": "*БУМ!*"
+		},
+		{
+			"key": "Sfx_LockdownDoor",
+			"value": "*Мотор дверей гуде*"
+		},
+		{
+			"key": "Sfx_LOL",
+			"value": "ЛОЛ"
+		},
+		{
+			"key": "Sfx_RotoHallLoop",
+			"value": "*Крутяться ротозали*"
+		},
+		{
+			"key": "SFX_RotoStart",
+			"value": "*Ротозали починають крутитися*"
+		},
+		{
+			"key": "SFX_RotoStop",
+			"value": "*Ротозали зупиняються*"
+		},
+		{
+			"key": "Sfx_CartoonKnock_Trimmed",
+			"value": "*ТОП!*"
+		},
+		{
+			"key": "Sfx_Crafters_Loop",
+			"value": "*ШУМ*"
+		},
+		{
+			"key": "Sfx_Crafters_Intro",
+			"value": "*ШУМ*"
+		},
+		{
+			"key": "Sfx_EventStartBell",
+			"value": "*ДЗЗЗИИИНЬ!*"
+		},
+		{
+			"key": "Sfx_LAt_Loop",
+			"value": "*Гудіння*"
+		},
+		{
+			"key": "Sfx_LAt_BlindStart",
+			"value": "*Гудіння*"
+		},
+		{
+			"key": "Sfx_ErrorMaybe",
+			"value": "Не тут."
+		},
+		{
+			"key": "Sfx_AppleCrunch",
+			"value": "*ХРУСЬ!*"
+		},
+		{
+			"key": "Sfx_Misc_ChipCrunch",
+			"value": "*ХРУМ!*"
+		},
+		{
+			"key": "Sfx_BearTrap",
+			"value": "*ДЗЕНЬ!*"
+		},
+		{
+			"key": "Sfx_1PR_Motor",
+			"value": "*Мотор гуде*"
+		},
+		{
+			"key": "Sfx_NoteRespawn",
+			"value": "Зошит повернувся!"
+		},
+		{
+			"key": "Sfx_BellGeneric",
+			"value": "*Дзень!*"
+		},
+		{
+			"key": "Sfx_Bang",
+			"value": "*Бах!*"
+		},
+		{
+			"key": "Sfx_Woosh",
+			"value": "*Вжууух!*"
+		},
+		{
+			"key": "Sfx_GlassBreak",
+			"value": "*Дзеньк!*"
+		},
+		{
+			"key": "Sfx_Slurp",
+			"value": "*Сьорб!*"
+		},
+		{
+			"key": "Sfx_ClockWind",
+			"value": "*Заводиться*"
+		},
+		{
+			"key": "Sfx_Doors_Knock",
+			"value": "*Тук-тук-тук*"
+		},
+		{
+			"key": "Sfx_WormholeOpen",
+			"value": "*...вуууУУУУУХ!*"
+		},
+		{
+			"key": "Comment Environment sound starts here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Sfx_ConveyorBeltLoop",
+			"value": "*Конвеєр гуде*"
+		},
+		{
+			"key": "Sfx_Crickets",
+			"value": "*Цвіркуни цвірчать*"
+		},
+		{
+			"key": "Sfx_Dryer",
+			"value": "*Сушарка гудить?*"
+		},
+		{
+			"key": "Sfx_Fire",
+			"value": "*Вогонь тріскотить*"
+		},
+		{
+			"key": "Sfx_ShrinkMachine_Door",
+			"value": "*ВЖЖЖ!*"
+		},
+		{
+			"key": "Sfx_Activity_Correct",
+			"value": "*Дзвіночок правильності*"
+		},
+		{
+			"key": "Sfx_Activity_Incorrect",
+			"value": "*Гудок помилки*"
+		},
+		{
+			"key": "Sfx_TimeLimitBell",
+			"value": "*ДЗЗЗИИИНЬ!*"
+		},
+		{
+			"key": "Sfx_TimeLimitTicking",
+			"value": "*тік* *так* *тік* *так* *тік* *так*"
+		},
+		{
+			"key": "Sfx_ValveLeak",
+			"value": "*шипіння*"
+		},
+		{
+			"key": "Sfx_PowerAlarm",
+			"value": "*ТРИВОГА*"
+		},
+		{
+			"key": "Sfx_PowerMotor",
+			"value": "*Шум Працюючого Генератора*"
+		},
+		{
+			"key": "Sfx_ElectricBuzz",
+			"value": "*Шум Електрики*"
+		},
+		{
+			"key": "Comment Sfx_Items starts here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "SFX_Items_ClockBell",
+			"value": "*Будильник ДЗЗЗИИИНЬЧИТЬ!*"
+		},
+		{
+			"key": "SFX_Items_ClockTick",
+			"value": "*Тік-так*"
+		},
+		{
+			"key": "SFX_Items_AntiHearing",
+			"value": "*Дратівливий шум*"
+		},
+		{
+			"key": "Sfx_Items_NoSquee",
+			"value": "*ВЖУХ!*"
+		},
+		{
+			"key": "Sfx_Items_PriWhistle",
+			"value": "*Свист*"
+		},
+		{
+			"key": "Sfx_Item_Teleport",
+			"value": "*БРЬОВ!*"
+		},
+		{
+			"key": "Sfx_Slap",
+			"value": "*Ляпас!*"
+		},
+		{
+			"key": "Sfx_Nana_Loop",
+			"value": "*ЗВУКИ КОВЗАННЯ*"
+		},
+		{
+			"key": "Sfx_Nana_Slip",
+			"value": "*ВУУУУ!*"
+		},
+		{
+			"key": "Sfx_Nana_Sput",
+			"value": "*шмяк*"
+		},
+		{
+			"key": "Comment Sfx_Water starts here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Sfx_Whirlpool",
+			"value": "*Вир бурчить*"
+		},
+		{
+			"key": "Comment_Sfx_Baldi starts here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Sfx_Baldi_Slap",
+			"value": "*ЛЯПАС*"
+		},
+		{
+			"key": "Sfx_Baldi_Break",
+			"value": "*ТРІСК*"
+		},
+		{
+			"key": "Sfx_Lose_Buzz",
+			"value": "ДЗЗЗ"
+		},
+		{
+			"key": "Comment Vfx Start Here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Comment Generic VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_0",
+			"value": "0"
+		},
+		{
+			"key": "Vfx_1",
+			"value": "1"
+		},
+		{
+			"key": "Vfx_2",
+			"value": "2"
+		},
+		{
+			"key": "Vfx_3",
+			"value": "3"
+		},
+		{
+			"key": "Vfx_4",
+			"value": "4"
+		},
+		{
+			"key": "Vfx_5",
+			"value": "5"
+		},
+		{
+			"key": "Vfx_6",
+			"value": "6"
+		},
+		{
+			"key": "Vfx_7",
+			"value": "7"
+		},
+		{
+			"key": "Vfx_8",
+			"value": "8"
+		},
+		{
+			"key": "Vfx_9",
+			"value": "9"
+		},
+		{
+			"key": "Vfx_10",
+			"value": "10"
+		},
+		{
+			"key": "Vfx_0!",
+			"value": "0!"
+		},
+		{
+			"key": "Vfx_1!",
+			"value": "1!"
+		},
+		{
+			"key": "Vfx_2!",
+			"value": "2!"
+		},
+		{
+			"key": "Vfx_3!",
+			"value": "3!"
+		},
+		{
+			"key": "Vfx_4!",
+			"value": "4!"
+		},
+		{
+			"key": "Vfx_5!",
+			"value": "5!"
+		},
+		{
+			"key": "Vfx_6!",
+			"value": "6!"
+		},
+		{
+			"key": "Vfx_7!",
+			"value": "7!"
+		},
+		{
+			"key": "Vfx_8!",
+			"value": "8!"
+		},
+		{
+			"key": "Vfx_9!",
+			"value": "9!"
+		},
+		{
+			"key": "Vfx_10!",
+			"value": "10!"
+		},
+		{
+			"key": "Comment Baldi VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_BAL_Apple",
+			"value": "Яблуко? Для мене? Дякую!"
+		},
+		{
+			"key": "Vfx_BAL_Countdown",
+			"value": "987654321!"
+		},
+		{
+			"key": "Vfx_BAL_HideSeek",
+			"value": "О, привіт! Давай пограємо в хованки!"
+		},
+		{
+			"key": "Vfx_BAL_NoPass_0",
+			"value": "Зачекай! У тебе немає автобусного квитка."
+		},
+		{
+			"key": "Vfx_BAL_NoPass_1",
+			"value": "Він знадобиться, якщо хочеш поїхати на екскурсію."
+		},
+		{
+			"key": "Vfx_BAL_Intro_Camping",
+			"value": "Гайда в похід!"
+		},
+		{
+			"key": "Vfx_BAL_Intro_Farm",
+			"value": "Гайда на ферму!"
+		},
+		{
+			"key": "Vfx_Baldi_KSL2",
+			"value": "Ти молодець! Продовжуймо гру!"
+		},
+		{
+			"key": "Vfx_Baldi_KSL3",
+			"value": "Яка веселість! Продов-"
+		},
+		{
+			"key": "Vfx_BAL_ReadyOrNot",
+			"value": "Готовий чи ні, я йду шукати!"
+		},
+		{
+			"key": "Vfx_BAL_ThanksForPlaying",
+			"value": "Дякую за гру, повертайся скоро!"
+		},
+		{
+			"key": "Vfx_BAL_Wow",
+			"value": "ВАУ!"
+		},
+		{
+			"key": "Vfx_BAL_Yum",
+			"value": "Ням!"
+		},
+		{
+			"key": "Vfx_BAL_Ohh",
+			"value": "Оооо..."
+		},
+		{
+			"key": "Vfx_BAL_TryAgain",
+			"value": "Спробуй ще!"
+		},
+		{
+			"key": "Vfx_BAL_FoundLocker",
+			"value": "Я знаю що ти тут!"
+		},
+		{
+			"key": "Vfx_BAL_Praise1",
+			"value": "Ага! Ти впорався!"
+		},
+		{
+			"key": "Vfx_BAL_Praise2",
+			"value": "Чудова робота! Правильно!"
+		},
+		{
+			"key": "Vfx_BAL_Praise3",
+			"value": "Гарно вийшло!"
+		},
+		{
+			"key": "Vfx_BAL_Praise4",
+			"value": "Ти просто фантастичний!"
+		},
+		{
+			"key": "Vfx_BAL_Praise5",
+			"value": "Не вірю своїм очам! Ти неймовірний!"
+		},
+		{
+			"key": "Vfx_BAL_Praise6",
+			"value": "Ого, здається, ти розумніший за мене!"
+		},
+		{
+			"key": "Vfx_BaldiSings1",
+			"value": "Ти пройшов мою гру!"
+		},
+		{
+			"key": "Vfx_BaldiSings2",
+			"value": "Багато чому навчився!"
+		},
+		{
+			"key": "Vfx_BaldiSings3",
+			"value": "Добре, що прийшов,"
+		},
+		{
+			"key": "Vfx_BaldiSings4",
+			"value": "бо знання здобув!"
+		},
+		{
+			"key": "Vfx_BaldiSings5",
+			"value": "Тепер ти знаєш,"
+		},
+		{
+			"key": "Vfx_BaldiSings6",
+			"value": "як мозок ганять!"
+		},
+		{
+			"key": "Vfx_BaldiSings7",
+			"value": "Відпущу тебе,"
+		},
+		{
+			"key": "Vfx_BaldiSings8",
+			"value": "до нової гри!"
+		},
+		{
+			"key": "Vfx_BAL_Welcome",
+			"value": "О, привіт! Ласкаво прошу до моєї супошколи!"
+		},
+		{
+			"key": "Vfx_BAL_AllNotebooks_1",
+			"value": "Вітаю! Ти знайшов усі"
+		},
+		{
+			"key": "Vfx_BAL_AllNotebooks_2",
+			"value": "зошити!"
+		},
+		{
+			"key": "Vfx_BAL_AllNotebooks_3",
+			"value": "Тепер тобі лише треба..."
+		},
+		{
+			"key": "Vfx_BAL_AllNotebooks_4",
+			"value": "Знайти вихід, поки я тебе не спіймав!"
+		},
+		{
+			"key": "Vfx_BAL_AllNotebooks_5",
+			"value": "Хахахахааааа!"
+		},
+		{
+			"key": "Vfx_BAL_Event_Flood_1",
+			"value": "Здається, протікання знову протікає."
+		},
+		{
+			"key": "Vfx_BAL_Event_Flood_2",
+			"value": "Стережися вирів!"
+		},
+		{
+			"key": "Vfx_BAL_Event_Fog_1",
+			"value": "Ой-ой. Здається, мій туманогенератор знову зламався."
+		},
+		{
+			"key": "Vfx_BAL_Event_Fog_2",
+			"value": "Я... я майже нічого не бачу!"
+		},
+		{
+			"key": "Vfx_BAL_Event_Gravity_1",
+			"value": "Ого! Гравітація шаленіє!"
+		},
+		{
+			"key": "Vfx_BAL_Event_Gravity_2",
+			"value": "Мій новий винахід точно став грандіозним успіхом!"
+		},
+		{
+			"key": "Vfx_BAL_Event_MysteryRoom_1",
+			"value": "Гей! З’явилася таємна кімната."
+		},
+		{
+			"key": "Vfx_BAL_Event_MysteryRoom_2",
+			"value": "Знайди її, поки вона не ЗНИКла."
+		},
+		{
+			"key": "Vfx_BAL_Event_Party_1",
+			"value": "Вечірка в кабінеті директора! Усі запрошені!"
+		},
+		{
+			"key": "Vfx_BAL_Event_Party_2",
+			"value": "Заходь і отримай особливий приз!"
+		},
+		{
+			"key": "Vfx_BAL_Event_Ruler",
+			"value": "ААААААААААААААААААААААА"
+		},
+		{
+			"key": "Vfx_BAL_Event_TestProcedure_1",
+			"value": "Увага! Увага всім! Тестування неминуче!"
+		},
+		{
+			"key": "Vfx_BAL_Event_TestProcedure_2",
+			"value": "Ми регулярно тестуємо наші супердвері, щоб учні не втекли до кінця уроків."
+		},
+		{
+			"key": "Vfx_BAL_TimeOut_1",
+			"value": "Уроки закінчено! Школа більше не працює!"
+		},
+		{
+			"key": "Vfx_BAL_TimeOut_2",
+			"value": "Краще швиденько завершити справи, а то я тебе знаааайдуууу!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_0",
+			"value": "Деякі зошити замкнені за хитрими завданнями"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_1",
+			"value": "як-от цей, моя Математична Машина!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_2",
+			"value": "Щоб дістати ці зошити, спочатку розв’яжи завдання!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_3",
+			"value": "Щоб пройти це завдання, спочатку тобі треба"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_4",
+			"value": "розв’язати математичну задачу на передній панелі машини."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_5",
+			"value": "Потім тобі потрібно"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_6",
+			"value": "кнопкою дії підняти кульку з правильною цифрою"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_7",
+			"value": "і закинути її в Математичну Машину!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_8",
+			"value": "Коли даси відповідь, зошит з’явиться!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_9",
+			"value": "Спробуй сам."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_Incorrect_0",
+			"value": "Ой-ой..."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_Incorrect_1",
+			"value": "Здається, ти неправильно розв’язав задачу."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_Incorrect_2",
+			"value": "Не хвилюйся, зошит усе одно твій,"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Activities_Incorrect_3",
+			"value": "але в моїй грі помилки ускладнять усе!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_AllNotebooks_0",
+			"value": "Вітаю! Ти знайшов усі зошити!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_AllNotebooks_1",
+			"value": "Коли збереш усі зошити на рівні,"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_AllNotebooks_2",
+			"value": "можеш завершити, вийшовши через один із ліфтів."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Characters_0",
+			"value": "У моїй грі ти познайомишся з усіма моїми друзями!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Characters_1",
+			"value": "Кожен із них робить щось своє."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Characters_2",
+			"value": "Наприклад, якщо директор побачить, що ти порушуєш правила, він відправить тебе на покарання!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Characters_3",
+			"value": "Не кажи йому, що я це сказав, але тут, у Супошколі,"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Characters_4",
+			"value": "порушувати правила буває ВЕСЕЛО!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Characters_5",
+			"value": "Наприклад, у кімнатах для персоналу можна знайти круті штуки."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Characters_6",
+			"value": "Коли будеш готовий зустріти директора, натисни цю велику кнопку."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Characters_7",
+			"value": "А тоді подивися, що буде, якщо порушити правила прямо перед ним!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Detention_0",
+			"value": "ОГО!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Detention_1",
+			"value": "..."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Detention_2",
+			"value": "Бачив, як шалено? Кожен мій друг робить щось своє,"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Detention_3",
+			"value": "тому в моїй грі будь уважним, щоб запам’ятати, чим усі особливі!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Finished_0",
+			"value": "Вітаю! Ти завершив моє навчання!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Finished_1",
+			"value": "Тепер ти точно знаєш, як грати в мою гру!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_HideSeek_0",
+			"value": "Навчання майже закінчилося, але тут починається найцікавіше!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_HideSeek_1",
+			"value": "Як вийдеш із цієї кімнати, ми почнемо гру в хованки."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_HideSeek_2",
+			"value": "Я порахую до десяти й почну тебе шукати."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_HideSeek_3",
+			"value": "А ти тим часом шукатимеш решту зошитів."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_HideSeek_4",
+			"value": "Спробуй зробити це так, щоб я тебе не піймав."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_HideSeek_5",
+			"value": "Це точно буде складніше, ніж ти думаєш!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Interact_0",
+			"value": "У моїй Супошколі можна взаємодіяти з купою речей!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Interact_1",
+			"value": "Щоб із чимось взаємодіяти, просто подивися на нього й натисни кнопку «ДІЯ»."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Interact_2",
+			"value": "Чому б не спробувати прямо зараз, відчинивши ці двері?"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Intro_0",
+			"value": "О, привіт! Ласкаво прошу до навчання!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Intro_1",
+			"value": "Тут я навчу тебе всьому, що треба знати про мою гру!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Intro_2",
+			"value": "Щоб рухатися, використовуй кнопки «РУХ» і «ОЗИРНИСЯ»."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Intro_3",
+			"value": "Подивися на них на дошках за мною!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Intro_4",
+			"value": "У цьому навчанні всі потрібні кнопки будуть показані на дошках,"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Intro_5",
+			"value": "тож не забувай їх читати!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Intro_6",
+			"value": "Щоб продовжити, розвернися й зайди до наступної кімнати."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsConclusion_0",
+			"value": "ВОООООГО!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsConclusion_1",
+			"value": "Бачив? БСОДА може штовхати речі!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsConclusion_2",
+			"value": "Кожен предмет робить щось своє, тож вивчи, що вони вміють."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsConclusion_3",
+			"value": "Заходь до наступної кімнати, щоб продовжити навчання."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsIntro_0",
+			"value": "Досліджуючи мою Супошколу, ти знайдеш купу корисних штук!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsIntro_1",
+			"value": "Щоб підняти предмет, подивися на нього й натисни кнопку «ДІЯ»."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsIntro_2",
+			"value": "Тоді він додасться до твого інвентарю."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsIntro_3",
+			"value": "Щоб використати предмет, вибери його кнопками «ВИБІР ПРЕДМЕТА», а коли він підсвітиться,"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsIntro_4",
+			"value": "натисни кнопку «ВИКОРИСТАТИ». Просто, еге ж!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsIntro_5",
+			"value": "Кожен предмет робить щось своє, тож давай спробуємо кілька."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsIntro_6",
+			"value": "Візьми цю монетку й використай її в автоматі, щоб дістати БСОДУ."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsSpraySoda_0",
+			"value": "Чудова робота!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ItemsSpraySoda_1",
+			"value": "А тепер бризни цією БСОДОЮ на мене й подивися, що буде."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LockedDoor_0",
+			"value": "Ой-ой! Здається, тобі треба знайти кнопку, щоб відчинити ці двері!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LockedDoor_1",
+			"value": "Цікаво, де ж вона...?"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LockedDoor_Open_0",
+			"value": "Ти тільки подивися! Двері відчинені! Молодець!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LockedDoor_Open_1",
+			"value": "Заходь до наступної кімнати, щоб продовжити навчання."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LookBackComplete_0",
+			"value": "Ого, ти мене помітив!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LookBackComplete_1",
+			"value": "Кнопка «ОЗИРНУТИСЯ НАЗАД» дуже корисна, щоб глянути, що позаду!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LookBackPrompt_0",
+			"value": "Вгадай, хто!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LookBackPrompt_1",
+			"value": "..."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LookBackPrompt_2",
+			"value": "Псс! Я прямо за тобою!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LookBackPrompt_3",
+			"value": "..."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LookBackPrompt_4",
+			"value": "Натисни кнопку «ОЗИРНУТИСЯ НАЗАД»!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_LookBackPrompt_5",
+			"value": "..."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Map_0",
+			"value": "Здається, кнопка в кінці цього лабіринту. Добре, що в тебе є мапа!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Map_1",
+			"value": "Твоя мапа заповнюється, поки ти досліджуєш, тож не заблукаєш."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Map_2",
+			"value": "Натисни й утримуй кнопку «ШВИДКА МАПА», щоб глянути на околиці!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Map_3",
+			"value": "Натисни кнопку «РОЗШИРЕНА МАПА», щоб побачити всю мапу на своєму планшеті «Ти Можеш Думати»."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Map_4",
+			"value": "Там можна наближати, гортати й ставити позначки, щоб відстежувати круті штуки."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Map_5",
+			"value": "Класно, правда? Давай, я впевнений, ти знайдеш ту кнопку!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_MazeComplete_0",
+			"value": "Ти зробив це! Натисни кнопку й стрибай у цей вентиляційний хід."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_MazeComplete_1",
+			"value": "Це маленький ярлик, який я зробив."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Noise_0",
+			"value": "О! Я це почув!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Noise_1",
+			"value": "Коли ти робиш щось гучне, я це чую"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Noise_2",
+			"value": "і використовую ці звуки, щоб тебе знайти."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Noise_3",
+			"value": "У хованках тобі доведеться бути тихим, якщо хочеш виграти."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Noise_4",
+			"value": "Заходь до наступної кімнати, щоб продовжити навчання."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_NotebookCollected_0",
+			"value": "Так, ти зрозумів!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_NotebookCollected_1",
+			"value": "Заходь до наступної кімнати, щоб продовжити навчання."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Notebooks_0",
+			"value": "Мета моєї гри — знайти всі зошити на кожному рівні!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Notebooks_1",
+			"value": "Зошити будуть у класах, як цей."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Notebooks_2",
+			"value": "Щоб узяти зошит, подивися на нього й натисни кнопку «ДІЯ»."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Notebooks_3",
+			"value": "Щоб продовжити, візьми той зошит і зайди до наступної кімнати!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Run_0",
+			"value": "Ходити добре, але бігати весело! Щоб прискоритися, утримуй кнопку «БІГ», коли рухаєшся."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Run_1",
+			"value": "Тільки не витрать усю витривалість. Якщо вона закінчиться, не панікуй!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Run_2",
+			"value": "Просто постій і віддихайся. Витривалість швидко відновиться."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Run_3",
+			"value": "Щоб продовжити, обійди цей конвеєр."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Run_4",
+			"value": "Якщо йтимеш пішки, не встигнеш, тож бери ноги в руки й проскочиш!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Store_0",
+			"value": "Ого, це виглядає як складна ситуація!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Store_1",
+			"value": "Тобі не подолати цей конвеєр самотужки, але в мене є ідея!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Store_2",
+			"value": "Візьми кілька цих Очок Думок кнопкою «ДІЯ» й зазирни до крамниці Джонні."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Store_3",
+			"value": "У нього точно є щось, що тобі допоможе!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Tag_0",
+			"value": "Ага! Я тебе піймав!"
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_Tag_1",
+			"value": "У справжній грі це означало б поразку, але це лише навчання, тож відпущу тебе."
+		},
+		{
+			"key": "Vfx_BAL_Tutorial_ThatCouldDoIt",
+			"value": "Оце може спрацювати!"
+		},
+		{
+			"key": "Comment Farm VFX and SFX start here",
+			"value": "COMMENT"
+		},
+		{
+			"key": "Vfx_Farm_FarmBring",
+			"value": "Приведи до хліва тварину, яка видає такий звук!"
+		},
+		{
+			"key": "Vfx_Farm_FarmIntro1",
+			"value": "Ласкаво просимо на ферму!"
+		},
+		{
+			"key": "Vfx_Farm_FarmIntro2",
+			"value": "Фермеру потрібна наша допомога, щоб загнати тварин до хліва!"
+		},
+		{
+			"key": "Vfx_Farm_FarmIntro3",
+			"value": "Я скажу вам, яка тварина нам потрібна."
+		},
+		{
+			"key": "Vfx_Farm_FarmIntro4",
+			"value": "Тоді вам потрібно знайти всіх тварин, що відповідають умовам, та привести їх до хліва."
+		},
+		{
+			"key": "Vfx_Farm_FarmIntro5",
+			"value": "Просто клікніть на тварину, щоби взяти її. Потім перемістіть її через лабіринт і в хлів!"
+		},
+		{
+			"key": "Vfx_Farm_FarmIntro6",
+			"value": "Гаразд! Починаємо!"
+		},
+		{
+			"key": "Vfx_Farm_FarmWin",
+			"value": "Вау! Фантастично! Фермер дав тобі ці предмети як подяку!"
+		},
+		{
+			"key": "Sfx_Chicken",
+			"value": "БУХ-ГАВК!"
+		},
+		{
+			"key": "Sfx_Cow",
+			"value": "MOOO!"
+		},
+		{
+			"key": "Sfx_Pig",
+			"value": "OOINK!"
+		},
+		{
+			"key": "Sfx_Sheep",
+			"value": "BAAH!"
+		},
+		{
+			"key": "Comment Camping VFX and SFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_Camp_CampingIntro_1",
+			"value": "Ласкаво прошу до табору!"
+		},
+		{
+			"key": "Vfx_Camp_CampingIntro_2",
+			"value": "Озирнись навколо й насолоджуйся свіжим повітрям."
+		},
+		{
+			"key": "Vfx_Camp_CampingIntro_3",
+			"value": "Я вже розпалив вогнище, але якщо хочеш, можеш допомогти мені його підтримувати"
+		},
+		{
+			"key": "Vfx_Camp_CampingIntro_4",
+			"value": "або"
+		},
+		{
+			"key": "Vfx_Camp_CampingIntro_5",
+			"value": "можеш піти до столів для пікніка, і ми перекусимо!"
+		},
+		{
+			"key": "Vfx_Camp_CampingIntro_6",
+			"value": "Якщо треба навчитися грати в мінігру, просто клацни на меееене!"
+		},
+		{
+			"key": "Vfx_Camp_CampingIntro_7",
+			"value": "Коли будеш готовий почати мінігру, знайди найближчий об’єкт, на який можна натиснути."
+		},
+		{
+			"key": "Vfx_Camp_CampingIntro_8",
+			"value": "Усе просто!"
+		},
+		{
+			"key": "Vfx_Camp_CampingIntro_9",
+			"value": "Якщо виграєш мінігру, зможеш узяти три предмети назад."
+		},
+		{
+			"key": "Vfx_Camp_CampingIntro_10",
+			"value": "Вау!"
+		},
+		{
+			"key": "Vfx_Camp_CampingIntro_11",
+			"value": "Розважайся!"
+		},
+		{
+			"key": "Comment Cloudy Copter VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_Cmlo_Blowing",
+			"value": "*ВІТЕР ДМЕ*"
+		},
+		{
+			"key": "Vfx_Cmlo_Poof",
+			"value": "*ПУФ!*"
+		},
+		{
+			"key": "Comment Principal VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_PRI_Detention",
+			"value": "покарання для тебе!"
+		},
+		{
+			"key": "Vfx_PRI_Scold1",
+			"value": "Ти мав би знати краще."
+		},
+		{
+			"key": "Vfx_PRI_15",
+			"value": "15 секунд"
+		},
+		{
+			"key": "Vfx_PRI_20",
+			"value": "20 секунд"
+		},
+		{
+			"key": "Vfx_PRI_25",
+			"value": "25 секунд"
+		},
+		{
+			"key": "Vfx_PRI_30",
+			"value": "30 секунд"
+		},
+		{
+			"key": "Vfx_PRI_35",
+			"value": "35 секунд"
+		},
+		{
+			"key": "Vfx_PRI_40",
+			"value": "40 секунд"
+		},
+		{
+			"key": "Vfx_PRI_45",
+			"value": "45 секунд"
+		},
+		{
+			"key": "Vfx_PRI_50",
+			"value": "50 секунд"
+		},
+		{
+			"key": "Vfx_PRI_55",
+			"value": "55 секунд"
+		},
+		{
+			"key": "Vfx_PRI_60",
+			"value": "60 секунд"
+		},
+		{
+			"key": "Vfx_PRI_99",
+			"value": "99 секунд"
+		},
+		{
+			"key": "Vfx_PRI_Coming",
+			"value": "Не хвилюйся, я йду!"
+		},
+		{
+			"key": "Vfx_PRI_NoAfterHours",
+			"value": "Не можна залишатися в школі після уроків у коридорах!"
+		},
+		{
+			"key": "Vfx_PRI_NoBullying",
+			"value": "Не можна знущатися в коридорах!"
+		},
+		{
+			"key": "Vfx_PRI_NoDrinking",
+			"value": "Не можна пити напої в коридорах!"
+		},
+		{
+			"key": "Vfx_PRI_NoEating",
+			"value": "Не можна їсти їжу в коридорах!"
+		},
+		{
+			"key": "Vfx_PRI_NoEscaping",
+			"value": "Не можна тікати з покарання в коридорах!"
+		},
+		{
+			"key": "Vfx_PRI_NoFaculty",
+			"value": "Не можна заходити до кімнат для персоналу в коридорах!"
+		},
+		{
+			"key": "Vfx_PRI_NoLockers",
+			"value": "Не можна заглядати в чужі шафки в коридорах!"
+		},
+		{
+			"key": "Vfx_PRI_NoRunning",
+			"value": "Не можна бігати в коридорах!"
+		},
+		{
+			"key": "Vfx_PRI_NoStabbing",
+			"value": "Не можна колоти людей із невикористаними репліками в коридорах!"
+		},
+		{
+			"key": "Vfx_PRI_Scold2",
+			"value": "Коли ти вже навчишся?"
+		},
+		{
+			"key": "Vfx_PRI_Whistle",
+			"value": "*Свист*"
+		},
+		{
+			"key": "Vfx_PRI_Scold3",
+			"value": "Твої батьки про це дізнаються!"
+		},
+		{
+			"key": "Vfx_PRI_Scold4",
+			"value": "Не змушуй мене це повторювати!"
+		},
+		{
+			"key": "Comment Beans VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_Ben_NeatTrick",
+			"value": "Гей, хто хоче побачити крутий фокус?"
+		},
+		{
+			"key": "Vfx_Beans_Skip_Buckle",
+			"value": "Раз, два, застебни чобіт. Три, чотири, жуйка для всіх!"
+		},
+		{
+			"key": "Vfx_Ben_Anyone",
+			"value": "Хтось хоче глянути на щось круте?"
+		},
+		{
+			"key": "Vfx_Beans_Skip_Pain",
+			"value": "Скачу весь день, кажу-кажу, скачу, щоб біль прогнати геть!"
+		},
+		{
+			"key": "Vfx_Ben_Skip_Chant1",
+			"value": "Гука, а-чху, жую свою жуйку."
+		},
+		{
+			"key": "Vfx_Ben_Skip_Chant2",
+			"value": "Бука, а-ту, це купа веселощів... Ем, тобто радості!"
+		},
+		{
+			"key": "Vfx_Ben_HeyYou",
+			"value": "Гей, ти, дивися сюди!"
+		},
+		{
+			"key": "Vfx_Ben_Prepare",
+			"value": "Готуйся до чогось приголомшливого!"
+		},
+		{
+			"key": "Vfx_Ben_Grownups",
+			"value": "Псс! Не дай дорослим це помітити."
+		},
+		{
+			"key": "Vfx_Ben_WatchPro",
+			"value": "Дивись, як працює профі!"
+		},
+		{
+			"key": "Vfx_Ben_FeastEyes",
+			"value": "Тіш очі, поки я тішитимусь жуйкою!"
+		},
+		{
+			"key": "Vfx_Ben_Spit_OhNo",
+			"value": "Ой ні!"
+		},
+		{
+			"key": "Vfx_Ben_GumLoose",
+			"value": "Жуйка на волі!"
+		},
+		{
+			"key": "Vfx_Ben_Spit_HeadsUp",
+			"value": "Обережно зверху!"
+		},
+		{
+			"key": "Vfx_Ben_Spit_WatchOut",
+			"value": "Стережись!"
+		},
+		{
+			"key": "Vfx_Ben_Spit_CantLook",
+			"value": "Не можу на це дивитися!"
+		},
+		{
+			"key": "Vfx_Ben_Spit_HeldBack",
+			"value": "Хм, може, тому мене й залишили на другий рік."
+		},
+		{
+			"key": "Vfx_Ben_NeverHere",
+			"value": "Ну що ж, мене тут не було!"
+		},
+		{
+			"key": "Vfx_Ben_HippityHey",
+			"value": "Гоп-гей, глянь на годинник, час шукати новий римотвір."
+		},
+		{
+			"key": "Vfx_Beans_Skip_Away",
+			"value": "Скачи геть, скачи геть, усе минеться."
+		},
+		{
+			"key": "Vfx_Ben_Spit_SorryAdvance",
+			"value": "Вибач наперед!"
+		},
+		{
+			"key": "Vfx_Ben_BeSent",
+			"value": "Мене відправлять до того Директора, ляпатимуть по голові, аж задзвенить!"
+		},
+		{
+			"key": "Vfx_Ben_Spit_Casserole",
+			"value": "Ой, запіканка."
+		},
+		{
+			"key": "Vfx_Ben_TimeBounce",
+			"value": "Час тікати, час утікати, поки книжкою не закидали!"
+		},
+		{
+			"key": "Vfx_Ben_Nope",
+			"value": "Е-е... ні."
+		},
+		{
+			"key": "Vfx_Ben_Sorry",
+			"value": "Вони так на мене розсердяться, пробач!"
+		},
+		{
+			"key": "Vfx_Ben_Blowing",
+			"value": "*ДМУХАННЯ БУЛЬОК*"
+		},
+		{
+			"key": "Vfx_Ben_Spit",
+			"value": "*ВИПЛЬОВУЄ ЖУЙКУ*"
+		},
+		{
+			"key": "Sfx_Ben_Splat",
+			"value": "*ШМЯК!*"
+		},
+		{
+			"key": "Vfx_Ben_Splat",
+			"value": "*ШМЯК!*"
+		},
+		{
+			"key": "Sfx_Ben_Gum_Whoosh",
+			"value": "*ВЖУХ!*"
+		},
+		{
+			"key": "Comment Playtime VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_Playtime_1",
+			"value": "1!"
+		},
+		{
+			"key": "Vfx_Playtime_2",
+			"value": "2!"
+		},
+		{
+			"key": "Vfx_Playtime_3",
+			"value": "3!"
+		},
+		{
+			"key": "Vfx_Playtime_4",
+			"value": "4!"
+		},
+		{
+			"key": "Vfx_Playtime_5",
+			"value": "5!"
+		},
+		{
+			"key": "Vfx_Playtime_6",
+			"value": "6!"
+		},
+		{
+			"key": "Vfx_Playtime_7",
+			"value": "7!"
+		},
+		{
+			"key": "Vfx_Playtime_8",
+			"value": "8!"
+		},
+		{
+			"key": "Vfx_Playtime_9",
+			"value": "9!"
+		},
+		{
+			"key": "Vfx_Playtime_10",
+			"value": "10!"
+		},
+		{
+			"key": "Vfx_Playtime_Congrats",
+			"value": "Вау! Класно! Давай пограємо ще... Скоро!"
+		},
+		{
+			"key": "Vfx_Playtime_Instructions",
+			"value": ""
+		},
+		{
+			"key": "Vfx_Playtime_Laugh",
+			"value": "Хехехехе!"
+		},
+		{
+			"key": "Vfx_Playtime_LetsPlay",
+			"value": "Пограємо!"
+		},
+		{
+			"key": "Vfx_Playtime_Oops",
+			"value": "Ой! Ти напартачив!"
+		},
+		{
+			"key": "Vfx_Playtime_ReadyGo",
+			"value": "Готовий? Почали!"
+		},
+		{
+			"key": "Vfx_Playtime_Sad",
+			"value": "Ой! Мені сумно!"
+		},
+		{
+			"key": "Vfx_Playtime_WannaPlay",
+			"value": "Хочу пограти з кимось!"
+		},
+		{
+			"key": "Hud_Playtime_Instructions",
+			"value": "Час стрибати через скакалку!\nНатискай {0}, щоб стрибнути!"
+		},
+		{
+			"key": "Comment Bully VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_Bully_Bored",
+			"value": "Мені нудно..."
+		},
+		{
+			"key": "Vfx_Bully_Donation",
+			"value": "Дякую за щедрий подарунок!..."
+		},
+		{
+			"key": "Vfx_Bully_GiveGreat",
+			"value": "Дай мені щось круте..."
+		},
+		{
+			"key": "Vfx_Bully_NoItems",
+			"value": "Щооо?! Немає речей? Немає речей — немає проходу..."
+		},
+		{
+			"key": "Vfx_BUL_Sticks",
+			"value": "Дай мені ті палиці..."
+		},
+		{
+			"key": "Vfx_Bully_TakeCandy",
+			"value": "Я заберу твої цукерки..."
+		},
+		{
+			"key": "Vfx_Bully_TakeThat",
+			"value": "Я це візьму! Тепер це моє..."
+		},
+		{
+			"key": "Vfx_Bully_Sticks",
+			"value": "Дай мені ті палиці..."
+		},
+		{
+			"key": "Comment Chalkles VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Sfx_Chalk_Spawn",
+			"value": "*БРИНІННЯ*"
+		},
+		{
+			"key": "Sfx_Chalk_Laugh",
+			"value": "*ДРАТІВЛИВИЙ СМІХ*"
+		},
+		{
+			"key": "Comment First Prize VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_Prize_AmComing",
+			"value": "Я ЙДУ ГОТОВИЙ ЧИ НІ ОТ Я ЙДУ"
+		},
+		{
+			"key": "Vfx_Prize_AmLooking",
+			"value": "Я ШУКАЮ ТЕБЕ"
+		},
+		{
+			"key": "Vfx_Prize_Bang",
+			"value": "*ГРЯСЬ!*"
+		},
+		{
+			"key": "Vfx_Prize_BeenProgrammed",
+			"value": "МЕНЕ ЗАПРОГРАМУВАЛИ БАЖАТИ ТВОЄ ЗОБРАЖЕННЯ"
+		},
+		{
+			"key": "Vfx_Prize_HaveLost",
+			"value": "Я ВТРАТИВ ТЕБЕ - МЕНІ ЦЕ НЕ ПОДОБАЄТЬСЯ"
+		},
+		{
+			"key": "Vfx_Prize_IHug",
+			"value": "Я ОБІЙМАЮ ЛЮДЕЙ НАВІКИ"
+		},
+		{
+			"key": "Vfx_Prize_ISeeYou",
+			"value": "Я БАЧУ ТЕБЕ - ДРУЖЕ"
+		},
+		{
+			"key": "Vfx_Prize_Marry",
+			"value": "ЧИ ВІЗЬМЕШ МЕНЕ ЗА ЧОЛОВІКА"
+		},
+		{
+			"key": "Vfx_Prize_OhNo",
+			"value": "ОЙ - ні"
+		},
+		{
+			"key": "Comment Gotta Sweep VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_Sweep_GottaSweep",
+			"value": "Треба мести, мести, мести!"
+		},
+		{
+			"key": "Vfx_Sweep_Intro",
+			"value": "Здається, час прибирати!"
+		},
+		{
+			"key": "Vfx_Sweep_GottaReap",
+			"value": "ТРЕБА ЖАТИ, ЖАТИ, ЖАТИ!!!"
+		},
+		{
+			"key": "Comment Mrs. Pomp VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_NoL_CheckMap",
+			"value": "Перевір мапу, щоб дізнатися, де мій клас."
+		},
+		{
+			"key": "Vfx_NoL_ClassDismissed",
+			"value": "Уроки закінчено!"
+		},
+		{
+			"key": "Vfx_NoL_JustinTime",
+			"value": "Якраз вчасно!"
+		},
+		{
+			"key": "Vfx_NoL_Minutes",
+			"value": "хвилин."
+		},
+		{
+			"key": "Vfx_NoL_MinutesLeft",
+			"value": "хвилин залишилося."
+		},
+		{
+			"key": "Vfx_NoL_Nums_0",
+			"value": "0"
+		},
+		{
+			"key": "Vfx_NoL_Nums_1",
+			"value": "1"
+		},
+		{
+			"key": "Vfx_NoL_Nums_2",
+			"value": "2"
+		},
+		{
+			"key": "Vfx_NoL_Nums_3",
+			"value": "3"
+		},
+		{
+			"key": "Vfx_NoL_Nums_4",
+			"value": "4"
+		},
+		{
+			"key": "Vfx_NoL_Nums_5",
+			"value": "5"
+		},
+		{
+			"key": "Vfx_NoL_Nums_6",
+			"value": "6"
+		},
+		{
+			"key": "Vfx_NoL_Nums_7",
+			"value": "7"
+		},
+		{
+			"key": "Vfx_NoL_Nums_8",
+			"value": "8"
+		},
+		{
+			"key": "Vfx_NoL_Nums_9",
+			"value": "9"
+		},
+		{
+			"key": "Vfx_NoL_RemindingYou",
+			"value": "Просто нагадую бути на моєму уроці через"
+		},
+		{
+			"key": "Vfx_NoL_Scream",
+			"value": "ЧОМУ ТЕБЕ НЕ БУЛО НА МОЄМУ УРООООЦІ?!?!?!"
+		},
+		{
+			"key": "Vfx_NoL_TimesUp",
+			"value": "Час вийшов..."
+		},
+		{
+			"key": "Vfx_NoL_YouThere",
+			"value": "Ти, там!"
+		},
+		{
+			"key": "Comment Johnny VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_Jon_Buy1",
+			"value": "Обожнюю такі штуки!"
+		},
+		{
+			"key": "Vfx_Jon_Buy2",
+			"value": "Це може пригодитися!!"
+		},
+		{
+			"key": "Vfx_Jon_Buy3",
+			"value": "Цілком варте ціни!"
+		},
+		{
+			"key": "Vfx_Jon_Buy4",
+			"value": "Дякую! Тепер я, може, не помру з голоду!"
+		},
+		{
+			"key": "Vfx_Jon_Buy5",
+			"value": "Дякую! Мої батьки пишалися б, що я щось продав."
+		},
+		{
+			"key": "Vfx_Jon_Buy6",
+			"value": "Дякую, я все одно ненавидів той предмет!"
+		},
+		{
+			"key": "Vfx_Jon_DidntWant",
+			"value": "Та я й не хотів їсти сьогодні..."
+		},
+		{
+			"key": "Vfx_Jon_Expel1",
+			"value": "Добре, я про це подбаю."
+		},
+		{
+			"key": "Vfx_Jon_Expel2",
+			"value": "Окей, я їх попереджу."
+		},
+		{
+			"key": "Vfx_Jon_Expel3",
+			"value": "Ти справжній придурок!"
+		},
+		{
+			"key": "Vfx_Jon_ExpelWho",
+			"value": "Кого хочеш вигнати?"
+		},
+		{
+			"key": "Vfx_Jon_FaveCustomer",
+			"value": "Ти мій улюблений покупець. Бувай!"
+		},
+		{
+			"key": "Vfx_Jon_Hi",
+			"value": "Привіт, я Джонні!"
+		},
+		{
+			"key": "Vfx_Jon_InfoExpel",
+			"value": "Ти можеш вигнати когось до кінця гри!"
+		},
+		{
+			"key": "Vfx_Jon_InfoMap",
+			"value": "Це заповнить твою мапу на наступному рівні."
+		},
+		{
+			"key": "Vfx_Jon_InfoMapShort",
+			"value": "Це заповнить твою мапу."
+		},
+		{
+			"key": "Vfx_Jon_MapFilled",
+			"value": "Вважай свою мапу заповненою!"
+		},
+		{
+			"key": "Vfx_Jon_MapFilled2",
+			"value": "Тепер точно не заблукаєш!"
+		},
+		{
+			"key": "Vfx_Jon_SayHi",
+			"value": "Привіт Балді від мене!"
+		},
+		{
+			"key": "Vfx_Jon_SeeLater",
+			"value": "До зустрічі. Я ще буду тут!"
+		},
+		{
+			"key": "Vfx_Jon_ThanksNot",
+			"value": "Дякую за ніщо!"
+		},
+		{
+			"key": "Vfx_Jon_ThankYou",
+			"value": "Дякую за покупки!"
+		},
+		{
+			"key": "Vfx_Jon_TooMuch1",
+			"value": "Схоже, ти нічому не вчишся!"
+		},
+		{
+			"key": "Vfx_Jon_TooMuch2",
+			"value": "Спробуй ще, коли матимеш більше Очок Думок."
+		},
+		{
+			"key": "Vfx_Jon_TooMuch3",
+			"value": "Тобі це не по кишені!"
+		},
+		{
+			"key": "Vfx_Jon_TooMuch4",
+			"value": "Повертайся, коли будеш трохи... МММ- багатшим!"
+		},
+		{
+			"key": "Vfx_Jon_Welcome",
+			"value": "Ласкаво прошу до моєї крамниці!"
+		},
+		{
+			"key": "Vfx_Jon_YouBreak",
+			"value": "Розбив — купуй! ...Хоча зазвичай це я все ламаю."
+		},
+		{
+			"key": "Vfx_Jon_Help",
+			"value": "Я про це подбаю."
+		},
+		{
+			"key": "Vfx_Jon_ThatWasFun",
+			"value": "Вау, це було так весело! Я приніс тобі кілька штук назад."
+		},
+		{
+			"key": "Vfx_Jon_BusPass",
+			"value": "Вау, дякую! Обожнюю екскурсії!"
+		},
+		{
+			"key": "Comment Dr. Reflex VFX start here",
+			"value": "КОМЕНТАР"
+		},
+		{
+			"key": "Vfx_DrR_AllDone",
+			"value": "Усе готово!"
+		},
+		{
+			"key": "Vfx_DrR_Angry_Random_0",
+			"value": "Мені просто треба закінчити твій тест!"
+		},
+		{
+			"key": "Vfx_DrR_Angry_Random_1",
+			"value": "Повертайся сюди!"
+		},
+		{
+			"key": "Vfx_DrR_Angry_Random_2",
+			"value": "Це анітрохи не боляче!"
+		},
+		{
+			"key": "Vfx_DrR_Angry_Random_3",
+			"value": "Не бійся мого молотка!"
+		},
+		{
+			"key": "Vfx_DrR_Angry_Random_4",
+			"value": "Куди ти подівсяЯЯ?"
+		},
+		{
+			"key": "Vfx_DrR_Angry_Random_5",
+			"value": "ХММммм..."
+		},
+		{
+			"key": "Vfx_DrR_Angry_Random_6",
+			"value": "Це погано виглядатиме в моєму резюме!"
+		},
+		{
+			"key": "Vfx_DrR_Angry_Random_7",
+			"value": "Ти змусиш мене плакати!"
+		},
+		{
+			"key": "Vfx_DrR_EverythingGood",
+			"value": "Усе виглядає добре!"
+		},
+		{
+			"key": "Vfx_DrR_Fast",
+			"value": "...ШВИДКО!"
+		},
+		{
+			"key": "Vfx_DrR_Faster",
+			"value": "Роби це ШВИДШЕ наступного разу!"
+		},
+		{
+			"key": "Vfx_DrR_FirstTry",
+			"value": "Ого! З першого разу!"
+		},
+		{
+			"key": "Vfx_DrR_GoodJob",
+			"value": "Молодець! Це було швидко!"
+		},
+		{
+			"key": "Vfx_DrR_Happy_Random_0",
+			"value": "Комусь потрібен огляд?"
+		},
+		{
+			"key": "Vfx_DrR_Happy_Random_1",
+			"value": "Я перевірю твої рефлекси!"
+		},
+		{
+			"key": "Vfx_DrR_Happy_Random_2",
+			"value": "Хто хоче перевірити рефлекси?"
+		},
+		{
+			"key": "Vfx_DrR_Happy_Random_3",
+			"value": "Комусь погано? Заходьте до мене!"
+		},
+		{
+			"key": "Vfx_DrR_Happy_Random_4",
+			"value": "Мій тест вилікує все, що болить!"
+		},
+		{
+			"key": "Vfx_DrR_HitCircle",
+			"value": "Вдар по колу!"
+		},
+		{
+			"key": "Vfx_DrR_Indisputable",
+			"value": "Результати тесту незаперечні!"
+		},
+		{
+			"key": "Vfx_DrR_NotSoBad",
+			"value": "Бачиш? Це не так страшно!"
+		},
+		{
+			"key": "Vfx_DrR_SessionNotOver",
+			"value": "Щооо?! Твоя сесія ще не закінчилася!"
+		},
+		{
+			"key": "Vfx_DrR_Think_End",
+			"value": "...иииись"
+		},
+		{
+			"key": "Vfx_DrR_Think_Intro",
+			"value": "Думааа..."
+		},
+		{
+			"key": "Vfx_DrR_Think_Loop",
+			"value": "...ааааааа..."
+		},
+		{
+			"key": "Vfx_DrR_TooSlow",
+			"value": "Занадто повільно!"
+		},
+		{
+			"key": "Vfx_DrR_TryAgain",
+			"value": "Спробуй ще!"
+		},
+		{
+			"key": "Vfx_DrR_UhOh",
+			"value": "Ой-ой!"
+		},
+		{
+			"key": "Vfx_DrR_Whoops",
+			"value": "Упс!"
+		},
+		{
+			"key": "Vfx_DrR_Wrong",
+			"value": "Це не те!"
+		},
+		{
+			"key": "Vfx_DrR_YouHealthy",
+			"value": "Результати тесту кажуть, що ти здоровий!"
+		},
+		{
+			"key": "Comment Studnt VFX start here",
+			"value": "COMMENT"
+		},
+		{
+			"key": "Vfx_Student_Where",
+			"value": "????????"
+		},
+		{
+			"key": "Vfx_Student_Yay",
+			"value": "!!!!!!!!"
+		},
+		{
+			"key": "Vfx_ThanksForPlaying",
+			"value": "Дякую, що зіграв у мою гру."
+		},
+		{
+			"key": "Vfx_run",
+			"value": "біжи"
+		},
+		{
+			"key": "Mfx_mus_Playtime",
+			"value": "*Музика*"
+		},
+		{
+			"key": "Mfx_Party",
+			"value": "*Мила вечіркова музика*"
+		},
+		{
+			"key": "Comment Encrypted subtitles start here",
+			"value": "COMMENT"
+		},
+		{
+			"key": "Tfx_Enc_Test",
+			"value": "C6SbFlVfe/Dt6ThYSjEZZTb3WNWa4IcRtVBzjAocTVx4yguecqKjYb9ulq+YsRHHduoCzNJBC5WEi7xvUl7DOjijxgi5U8xD5F1EfmEQBUENwIccB4uRRKhxpr4xq/TVBne14nNlkKU3Lg87ms12bPvNf8g1TSMAZDOx9TWIHDM="
+		},
+		{
+			"key": "End",
+			"value": "Вау, це кінець файлу .json!"
+		}
+	]
+}
